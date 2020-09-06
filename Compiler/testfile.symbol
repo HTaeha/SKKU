@@ -1,0 +1,9 @@
+
+Function name : main
+	count		type		name		role
+	1			none		c			parameter
+	2			none		b			parameter
+	3			none		a			parameter
+	4			INT			a			variable
+	5			CHAR		b			variable
+

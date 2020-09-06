@@ -1,0 +1,14 @@
+How to compile
+$ make
+
+How to execute
+$./taeha < [input file name]
+
+Execute file
+ - taeha
+
+Output file
+ - testfile.code
+
+symbol table output file
+ - testfile.symbol

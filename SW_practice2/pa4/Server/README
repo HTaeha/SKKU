@@ -1,0 +1,7 @@
+Compiling:
+gcc Server.c -o server
+./server
+
+You can input 1 argument or just execute.
+Argument is port.
+Default port = 10001

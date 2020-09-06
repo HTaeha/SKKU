@@ -1,0 +1,863 @@
+2.000 | avg_RTT : 0.1238
+2.000 | Sending rate : 17.5000
+2.000 | Goodput : 16.0000
+4.000 | avg_RTT : 0.1084
+4.000 | Sending rate : 24.0000
+4.000 | Goodput : 25.0000
+6.000 | avg_RTT : 0.1660
+6.000 | Sending rate : 22.0000
+6.000 | Goodput : 22.5000
+8.003 | avg_RTT : 0.0909
+8.003 | Sending rate : 26.5000
+8.003 | Goodput : 14.5000
+10.000 | avg_RTT : 0.0000
+10.000 | Sending rate : 45.0000
+10.000 | Goodput : 0.0000
+12.003 | avg_RTT : 0.0000
+12.003 | Sending rate : 24.5000
+12.003 | Goodput : 0.0000
+14.015 | avg_RTT : 0.0000
+14.015 | Sending rate : 0.0000
+14.015 | Goodput : 0.0000
+16.000 | avg_RTT : 0.0000
+16.000 | Sending rate : 0.0000
+16.000 | Goodput : 0.0000
+18.001 | avg_RTT : 0.0000
+18.001 | Sending rate : 0.0000
+18.001 | Goodput : 0.0000
+20.010 | avg_RTT : 0.0000
+20.010 | Sending rate : 0.0000
+20.010 | Goodput : 0.0000
+22.000 | avg_RTT : 0.0000
+22.000 | Sending rate : 0.0000
+22.000 | Goodput : 0.0000
+24.000 | avg_RTT : 0.0000
+24.000 | Sending rate : 0.0000
+24.000 | Goodput : 0.0000
+26.001 | avg_RTT : 0.0000
+26.001 | Sending rate : 0.0000
+26.001 | Goodput : 0.0000
+28.009 | avg_RTT : 0.0000
+28.009 | Sending rate : 0.0000
+28.009 | Goodput : 0.0000
+30.002 | avg_RTT : 0.0000
+30.002 | Sending rate : 0.0000
+30.002 | Goodput : 0.0000
+32.014 | avg_RTT : 0.0000
+32.014 | Sending rate : 0.0000
+32.014 | Goodput : 0.0000
+34.003 | avg_RTT : 0.0000
+34.003 | Sending rate : 0.0000
+34.003 | Goodput : 0.0000
+36.001 | avg_RTT : 0.0000
+36.001 | Sending rate : 0.0000
+36.001 | Goodput : 0.0000
+38.000 | avg_RTT : 0.0000
+38.000 | Sending rate : 0.0000
+38.000 | Goodput : 0.0000
+40.002 | avg_RTT : 0.0000
+40.002 | Sending rate : 0.0000
+40.002 | Goodput : 0.0000
+42.000 | avg_RTT : 0.0000
+42.000 | Sending rate : 0.0000
+42.000 | Goodput : 0.0000
+44.004 | avg_RTT : 0.0000
+44.004 | Sending rate : 0.0000
+44.004 | Goodput : 0.0000
+46.000 | avg_RTT : 0.0000
+46.000 | Sending rate : 0.0000
+46.000 | Goodput : 0.0000
+48.016 | avg_RTT : 0.0000
+48.016 | Sending rate : 0.0000
+48.016 | Goodput : 0.0000
+50.000 | avg_RTT : 0.0000
+50.000 | Sending rate : 0.0000
+50.000 | Goodput : 0.0000
+52.006 | avg_RTT : 0.0000
+52.006 | Sending rate : 0.0000
+52.006 | Goodput : 0.0000
+54.039 | avg_RTT : 0.0000
+54.039 | Sending rate : 0.0000
+54.039 | Goodput : 0.0000
+56.000 | avg_RTT : 0.0000
+56.000 | Sending rate : 0.0000
+56.000 | Goodput : 0.0000
+58.004 | avg_RTT : 0.0000
+58.004 | Sending rate : 0.0000
+58.004 | Goodput : 0.0000
+60.000 | avg_RTT : 0.0000
+60.000 | Sending rate : 0.0000
+60.000 | Goodput : 0.0000
+62.001 | avg_RTT : 0.0000
+62.001 | Sending rate : 0.0000
+62.001 | Goodput : 0.0000
+64.003 | avg_RTT : 0.0000
+64.003 | Sending rate : 0.0000
+64.003 | Goodput : 0.0000
+66.078 | avg_RTT : 0.0000
+66.078 | Sending rate : 0.0000
+66.078 | Goodput : 0.0000
+68.005 | avg_RTT : 0.0000
+68.005 | Sending rate : 0.0000
+68.005 | Goodput : 0.0000
+70.000 | avg_RTT : 0.0000
+70.000 | Sending rate : 0.0000
+70.000 | Goodput : 0.0000
+72.027 | avg_RTT : 0.0000
+72.027 | Sending rate : 0.0000
+72.027 | Goodput : 0.0000
+74.015 | avg_RTT : 0.0000
+74.015 | Sending rate : 0.0000
+74.015 | Goodput : 0.0000
+76.008 | avg_RTT : 0.0000
+76.008 | Sending rate : 0.0000
+76.008 | Goodput : 0.0000
+78.000 | avg_RTT : 0.0000
+78.000 | Sending rate : 0.0000
+78.000 | Goodput : 0.0000
+80.000 | avg_RTT : 0.0000
+80.000 | Sending rate : 0.0000
+80.000 | Goodput : 0.0000
+82.003 | avg_RTT : 0.0000
+82.003 | Sending rate : 0.0000
+82.003 | Goodput : 0.0000
+84.053 | avg_RTT : 0.0000
+84.053 | Sending rate : 0.0000
+84.053 | Goodput : 0.0000
+86.000 | avg_RTT : 0.0000
+86.000 | Sending rate : 0.0000
+86.000 | Goodput : 0.0000
+88.000 | avg_RTT : 0.0000
+88.000 | Sending rate : 0.0000
+88.000 | Goodput : 0.0000
+90.005 | avg_RTT : 0.0000
+90.005 | Sending rate : 0.0000
+90.005 | Goodput : 0.0000
+92.186 | avg_RTT : 0.0000
+92.186 | Sending rate : 0.0000
+92.186 | Goodput : 0.0000
+94.000 | avg_RTT : 0.0000
+94.000 | Sending rate : 0.0000
+94.000 | Goodput : 0.0000
+96.002 | avg_RTT : 0.0000
+96.002 | Sending rate : 0.0000
+96.002 | Goodput : 0.0000
+98.007 | avg_RTT : 0.0000
+98.007 | Sending rate : 0.0000
+98.007 | Goodput : 0.0000
+100.011 | avg_RTT : 0.0000
+100.011 | Sending rate : 0.0000
+100.011 | Goodput : 0.0000
+102.003 | avg_RTT : 0.0000
+102.003 | Sending rate : 0.0000
+102.003 | Goodput : 0.0000
+104.028 | avg_RTT : 0.0000
+104.028 | Sending rate : 0.0000
+104.028 | Goodput : 0.0000
+106.001 | avg_RTT : 0.0000
+106.001 | Sending rate : 0.0000
+106.001 | Goodput : 0.0000
+108.003 | avg_RTT : 0.0000
+108.003 | Sending rate : 0.0000
+108.003 | Goodput : 0.0000
+110.033 | avg_RTT : 0.0000
+110.033 | Sending rate : 0.0000
+110.033 | Goodput : 0.0000
+112.000 | avg_RTT : 0.0000
+112.000 | Sending rate : 0.0000
+112.000 | Goodput : 0.0000
+114.038 | avg_RTT : 0.0000
+114.038 | Sending rate : 0.0000
+114.038 | Goodput : 0.0000
+116.005 | avg_RTT : 0.0000
+116.005 | Sending rate : 0.0000
+116.005 | Goodput : 0.0000
+118.028 | avg_RTT : 0.0000
+118.028 | Sending rate : 0.0000
+118.028 | Goodput : 0.0000
+120.000 | avg_RTT : 0.0000
+120.000 | Sending rate : 0.0000
+120.000 | Goodput : 0.0000
+122.002 | avg_RTT : 0.0000
+122.002 | Sending rate : 0.0000
+122.002 | Goodput : 0.0000
+124.005 | avg_RTT : 0.0000
+124.005 | Sending rate : 0.0000
+124.005 | Goodput : 0.0000
+126.002 | avg_RTT : 0.0000
+126.002 | Sending rate : 0.0000
+126.002 | Goodput : 0.0000
+128.003 | avg_RTT : 0.0000
+128.003 | Sending rate : 0.0000
+128.003 | Goodput : 0.0000
+130.000 | avg_RTT : 0.0000
+130.000 | Sending rate : 0.0000
+130.000 | Goodput : 0.0000
+132.000 | avg_RTT : 0.0000
+132.000 | Sending rate : 0.0000
+132.000 | Goodput : 0.0000
+134.066 | avg_RTT : 0.0000
+134.066 | Sending rate : 0.0000
+134.066 | Goodput : 0.0000
+136.009 | avg_RTT : 0.0000
+136.009 | Sending rate : 0.0000
+136.009 | Goodput : 0.0000
+138.000 | avg_RTT : 0.0000
+138.000 | Sending rate : 0.0000
+138.000 | Goodput : 0.0000
+140.022 | avg_RTT : 0.0000
+140.022 | Sending rate : 0.0000
+140.022 | Goodput : 0.0000
+142.001 | avg_RTT : 0.0000
+142.001 | Sending rate : 0.0000
+142.001 | Goodput : 0.0000
+144.004 | avg_RTT : 0.0000
+144.004 | Sending rate : 0.0000
+144.004 | Goodput : 0.0000
+146.022 | avg_RTT : 0.0000
+146.022 | Sending rate : 0.0000
+146.022 | Goodput : 0.0000
+148.000 | avg_RTT : 0.0000
+148.000 | Sending rate : 0.0000
+148.000 | Goodput : 0.0000
+150.014 | avg_RTT : 0.0000
+150.014 | Sending rate : 0.0000
+150.014 | Goodput : 0.0000
+152.059 | avg_RTT : 0.0000
+152.059 | Sending rate : 0.0000
+152.059 | Goodput : 0.0000
+154.011 | avg_RTT : 0.0000
+154.011 | Sending rate : 0.0000
+154.011 | Goodput : 0.0000
+156.015 | avg_RTT : 0.0000
+156.015 | Sending rate : 0.0000
+156.015 | Goodput : 0.0000
+158.023 | avg_RTT : 0.0000
+158.023 | Sending rate : 0.0000
+158.023 | Goodput : 0.0000
+160.000 | avg_RTT : 0.0000
+160.000 | Sending rate : 0.0000
+160.000 | Goodput : 0.0000
+162.044 | avg_RTT : 0.0000
+162.044 | Sending rate : 0.0000
+162.044 | Goodput : 0.0000
+164.000 | avg_RTT : 0.0000
+164.000 | Sending rate : 0.0000
+164.000 | Goodput : 0.0000
+166.000 | avg_RTT : 0.0000
+166.000 | Sending rate : 0.0000
+166.000 | Goodput : 0.0000
+168.023 | avg_RTT : 0.0000
+168.023 | Sending rate : 0.0000
+168.023 | Goodput : 0.0000
+170.007 | avg_RTT : 0.0000
+170.007 | Sending rate : 0.0000
+170.007 | Goodput : 0.0000
+172.005 | avg_RTT : 0.0000
+172.005 | Sending rate : 0.0000
+172.005 | Goodput : 0.0000
+174.007 | avg_RTT : 0.0000
+174.007 | Sending rate : 0.0000
+174.007 | Goodput : 0.0000
+176.000 | avg_RTT : 0.0000
+176.000 | Sending rate : 0.0000
+176.000 | Goodput : 0.0000
+178.000 | avg_RTT : 0.0000
+178.000 | Sending rate : 0.0000
+178.000 | Goodput : 0.0000
+180.000 | avg_RTT : 0.0000
+180.000 | Sending rate : 0.0000
+180.000 | Goodput : 0.0000
+182.000 | avg_RTT : 0.0000
+182.000 | Sending rate : 0.0000
+182.000 | Goodput : 0.0000
+184.000 | avg_RTT : 0.0000
+184.000 | Sending rate : 0.0000
+184.000 | Goodput : 0.0000
+186.004 | avg_RTT : 0.0000
+186.004 | Sending rate : 0.0000
+186.004 | Goodput : 0.0000
+188.053 | avg_RTT : 0.0000
+188.053 | Sending rate : 0.0000
+188.053 | Goodput : 0.0000
+190.000 | avg_RTT : 0.0000
+190.000 | Sending rate : 0.0000
+190.000 | Goodput : 0.0000
+192.013 | avg_RTT : 0.0000
+192.013 | Sending rate : 0.0000
+192.013 | Goodput : 0.0000
+194.018 | avg_RTT : 0.0000
+194.018 | Sending rate : 0.0000
+194.018 | Goodput : 0.0000
+196.004 | avg_RTT : 0.0000
+196.004 | Sending rate : 0.0000
+196.004 | Goodput : 0.0000
+198.005 | avg_RTT : 0.0000
+198.005 | Sending rate : 0.0000
+198.005 | Goodput : 0.0000
+200.003 | avg_RTT : 0.0000
+200.003 | Sending rate : 0.0000
+200.003 | Goodput : 0.0000
+202.000 | avg_RTT : 0.0000
+202.000 | Sending rate : 0.0000
+202.000 | Goodput : 0.0000
+204.063 | avg_RTT : 0.0000
+204.063 | Sending rate : 0.0000
+204.063 | Goodput : 0.0000
+206.009 | avg_RTT : 0.0000
+206.009 | Sending rate : 0.0000
+206.009 | Goodput : 0.0000
+208.014 | avg_RTT : 0.0000
+208.014 | Sending rate : 0.0000
+208.014 | Goodput : 0.0000
+210.002 | avg_RTT : 0.0000
+210.002 | Sending rate : 0.0000
+210.002 | Goodput : 0.0000
+212.000 | avg_RTT : 0.0000
+212.000 | Sending rate : 0.0000
+212.000 | Goodput : 0.0000
+214.002 | avg_RTT : 0.0000
+214.002 | Sending rate : 0.0000
+214.002 | Goodput : 0.0000
+216.005 | avg_RTT : 0.0000
+216.005 | Sending rate : 0.0000
+216.005 | Goodput : 0.0000
+218.008 | avg_RTT : 0.0000
+218.008 | Sending rate : 0.0000
+218.008 | Goodput : 0.0000
+220.001 | avg_RTT : 0.0000
+220.001 | Sending rate : 0.0000
+220.001 | Goodput : 0.0000
+222.000 | avg_RTT : 0.0000
+222.000 | Sending rate : 0.0000
+222.000 | Goodput : 0.0000
+224.003 | avg_RTT : 0.0000
+224.003 | Sending rate : 0.0000
+224.003 | Goodput : 0.0000
+226.002 | avg_RTT : 0.0000
+226.002 | Sending rate : 0.0000
+226.002 | Goodput : 0.0000
+228.000 | avg_RTT : 0.0000
+228.000 | Sending rate : 0.0000
+228.000 | Goodput : 0.0000
+230.005 | avg_RTT : 0.0000
+230.005 | Sending rate : 0.0000
+230.005 | Goodput : 0.0000
+232.000 | avg_RTT : 0.0000
+232.000 | Sending rate : 0.0000
+232.000 | Goodput : 0.0000
+234.000 | avg_RTT : 0.0000
+234.000 | Sending rate : 0.0000
+234.000 | Goodput : 0.0000
+236.000 | avg_RTT : 0.0000
+236.000 | Sending rate : 0.0000
+236.000 | Goodput : 0.0000
+238.000 | avg_RTT : 0.0000
+238.000 | Sending rate : 0.0000
+238.000 | Goodput : 0.0000
+240.089 | avg_RTT : 0.0000
+240.089 | Sending rate : 0.0000
+240.089 | Goodput : 0.0000
+242.005 | avg_RTT : 0.0000
+242.005 | Sending rate : 0.0000
+242.005 | Goodput : 0.0000
+244.004 | avg_RTT : 0.0000
+244.004 | Sending rate : 0.0000
+244.004 | Goodput : 0.0000
+246.053 | avg_RTT : 0.0000
+246.053 | Sending rate : 0.0000
+246.053 | Goodput : 0.0000
+248.005 | avg_RTT : 0.0000
+248.005 | Sending rate : 0.0000
+248.005 | Goodput : 0.0000
+250.016 | avg_RTT : 0.0000
+250.016 | Sending rate : 0.0000
+250.016 | Goodput : 0.0000
+252.000 | avg_RTT : 0.0000
+252.000 | Sending rate : 0.0000
+252.000 | Goodput : 0.0000
+254.000 | avg_RTT : 0.0000
+254.000 | Sending rate : 0.0000
+254.000 | Goodput : 0.0000
+256.000 | avg_RTT : 0.0000
+256.000 | Sending rate : 0.0000
+256.000 | Goodput : 0.0000
+258.002 | avg_RTT : 0.0000
+258.002 | Sending rate : 0.0000
+258.002 | Goodput : 0.0000
+260.000 | avg_RTT : 0.0000
+260.000 | Sending rate : 0.0000
+260.000 | Goodput : 0.0000
+262.007 | avg_RTT : 0.0000
+262.007 | Sending rate : 0.0000
+262.007 | Goodput : 0.0000
+264.000 | avg_RTT : 0.0000
+264.000 | Sending rate : 0.0000
+264.000 | Goodput : 0.0000
+266.009 | avg_RTT : 0.0000
+266.009 | Sending rate : 0.0000
+266.009 | Goodput : 0.0000
+268.000 | avg_RTT : 0.0000
+268.000 | Sending rate : 0.0000
+268.000 | Goodput : 0.0000
+270.000 | avg_RTT : 0.0000
+270.000 | Sending rate : 0.0000
+270.000 | Goodput : 0.0000
+272.002 | avg_RTT : 0.0000
+272.002 | Sending rate : 0.0000
+272.002 | Goodput : 0.0000
+274.004 | avg_RTT : 0.0000
+274.004 | Sending rate : 0.0000
+274.004 | Goodput : 0.0000
+276.000 | avg_RTT : 0.0000
+276.000 | Sending rate : 0.0000
+276.000 | Goodput : 0.0000
+278.004 | avg_RTT : 0.0000
+278.004 | Sending rate : 0.0000
+278.004 | Goodput : 0.0000
+280.000 | avg_RTT : 0.0000
+280.000 | Sending rate : 0.0000
+280.000 | Goodput : 0.0000
+282.002 | avg_RTT : 0.0000
+282.002 | Sending rate : 0.0000
+282.002 | Goodput : 0.0000
+284.010 | avg_RTT : 0.0000
+284.010 | Sending rate : 0.0000
+284.010 | Goodput : 0.0000
+286.004 | avg_RTT : 0.0000
+286.004 | Sending rate : 0.0000
+286.004 | Goodput : 0.0000
+288.002 | avg_RTT : 0.0000
+288.002 | Sending rate : 0.0000
+288.002 | Goodput : 0.0000
+290.000 | avg_RTT : 0.0000
+290.000 | Sending rate : 0.0000
+290.000 | Goodput : 0.0000
+292.000 | avg_RTT : 0.0000
+292.000 | Sending rate : 0.0000
+292.000 | Goodput : 0.0000
+294.096 | avg_RTT : 0.0000
+294.096 | Sending rate : 0.0000
+294.096 | Goodput : 0.0000
+296.003 | avg_RTT : 0.0000
+296.003 | Sending rate : 0.0000
+296.003 | Goodput : 0.0000
+298.000 | avg_RTT : 0.0000
+298.000 | Sending rate : 0.0000
+298.000 | Goodput : 0.0000
+300.005 | avg_RTT : 0.0000
+300.005 | Sending rate : 0.0000
+300.005 | Goodput : 0.0000
+302.003 | avg_RTT : 0.0000
+302.003 | Sending rate : 0.0000
+302.003 | Goodput : 0.0000
+304.000 | avg_RTT : 0.0000
+304.000 | Sending rate : 0.0000
+304.000 | Goodput : 0.0000
+306.000 | avg_RTT : 0.0000
+306.000 | Sending rate : 0.0000
+306.000 | Goodput : 0.0000
+308.000 | avg_RTT : 0.0000
+308.000 | Sending rate : 0.0000
+308.000 | Goodput : 0.0000
+310.000 | avg_RTT : 0.0000
+310.000 | Sending rate : 0.0000
+310.000 | Goodput : 0.0000
+312.005 | avg_RTT : 0.0000
+312.005 | Sending rate : 0.0000
+312.005 | Goodput : 0.0000
+314.008 | avg_RTT : 0.0000
+314.008 | Sending rate : 0.0000
+314.008 | Goodput : 0.0000
+316.001 | avg_RTT : 0.0000
+316.001 | Sending rate : 0.0000
+316.001 | Goodput : 0.0000
+318.106 | avg_RTT : 0.0000
+318.106 | Sending rate : 0.0000
+318.106 | Goodput : 0.0000
+320.012 | avg_RTT : 0.0000
+320.012 | Sending rate : 0.0000
+320.012 | Goodput : 0.0000
+322.005 | avg_RTT : 0.0000
+322.005 | Sending rate : 0.0000
+322.005 | Goodput : 0.0000
+324.004 | avg_RTT : 0.0000
+324.004 | Sending rate : 0.0000
+324.004 | Goodput : 0.0000
+326.006 | avg_RTT : 0.0000
+326.006 | Sending rate : 0.0000
+326.006 | Goodput : 0.0000
+328.004 | avg_RTT : 0.0000
+328.004 | Sending rate : 0.0000
+328.004 | Goodput : 0.0000
+330.000 | avg_RTT : 0.0000
+330.000 | Sending rate : 0.0000
+330.000 | Goodput : 0.0000
+332.013 | avg_RTT : 0.0000
+332.013 | Sending rate : 0.0000
+332.013 | Goodput : 0.0000
+334.017 | avg_RTT : 0.0000
+334.017 | Sending rate : 0.0000
+334.017 | Goodput : 0.0000
+336.001 | avg_RTT : 0.0000
+336.001 | Sending rate : 0.0000
+336.001 | Goodput : 0.0000
+338.000 | avg_RTT : 0.0000
+338.000 | Sending rate : 0.0000
+338.000 | Goodput : 0.0000
+340.008 | avg_RTT : 0.0000
+340.008 | Sending rate : 0.0000
+340.008 | Goodput : 0.0000
+342.000 | avg_RTT : 0.0000
+342.000 | Sending rate : 0.0000
+342.000 | Goodput : 0.0000
+344.000 | avg_RTT : 0.0000
+344.000 | Sending rate : 0.0000
+344.000 | Goodput : 0.0000
+346.007 | avg_RTT : 0.0000
+346.007 | Sending rate : 0.0000
+346.007 | Goodput : 0.0000
+348.007 | avg_RTT : 0.0000
+348.007 | Sending rate : 0.0000
+348.007 | Goodput : 0.0000
+350.000 | avg_RTT : 0.0000
+350.000 | Sending rate : 0.0000
+350.000 | Goodput : 0.0000
+352.000 | avg_RTT : 0.0000
+352.000 | Sending rate : 0.0000
+352.000 | Goodput : 0.0000
+354.002 | avg_RTT : 0.0000
+354.002 | Sending rate : 0.0000
+354.002 | Goodput : 0.0000
+356.000 | avg_RTT : 0.0000
+356.000 | Sending rate : 0.0000
+356.000 | Goodput : 0.0000
+358.000 | avg_RTT : 0.0000
+358.000 | Sending rate : 0.0000
+358.000 | Goodput : 0.0000
+360.031 | avg_RTT : 0.0000
+360.031 | Sending rate : 0.0000
+360.031 | Goodput : 0.0000
+362.010 | avg_RTT : 0.0000
+362.010 | Sending rate : 0.0000
+362.010 | Goodput : 0.0000
+364.003 | avg_RTT : 0.0000
+364.003 | Sending rate : 0.0000
+364.003 | Goodput : 0.0000
+366.000 | avg_RTT : 0.0000
+366.000 | Sending rate : 0.0000
+366.000 | Goodput : 0.0000
+368.005 | avg_RTT : 0.0000
+368.005 | Sending rate : 0.0000
+368.005 | Goodput : 0.0000
+370.103 | avg_RTT : 0.0000
+370.103 | Sending rate : 0.0000
+370.103 | Goodput : 0.0000
+372.000 | avg_RTT : 0.0000
+372.000 | Sending rate : 0.0000
+372.000 | Goodput : 0.0000
+374.021 | avg_RTT : 0.0000
+374.021 | Sending rate : 0.0000
+374.021 | Goodput : 0.0000
+376.004 | avg_RTT : 0.0000
+376.004 | Sending rate : 0.0000
+376.004 | Goodput : 0.0000
+378.002 | avg_RTT : 0.0000
+378.002 | Sending rate : 0.0000
+378.002 | Goodput : 0.0000
+380.005 | avg_RTT : 0.0000
+380.005 | Sending rate : 0.0000
+380.005 | Goodput : 0.0000
+382.005 | avg_RTT : 0.0000
+382.005 | Sending rate : 0.0000
+382.005 | Goodput : 0.0000
+384.000 | avg_RTT : 0.0000
+384.000 | Sending rate : 0.0000
+384.000 | Goodput : 0.0000
+386.000 | avg_RTT : 0.0000
+386.000 | Sending rate : 0.0000
+386.000 | Goodput : 0.0000
+388.132 | avg_RTT : 0.0000
+388.132 | Sending rate : 0.0000
+388.132 | Goodput : 0.0000
+390.017 | avg_RTT : 0.0000
+390.017 | Sending rate : 0.0000
+390.017 | Goodput : 0.0000
+392.005 | avg_RTT : 0.0000
+392.005 | Sending rate : 0.0000
+392.005 | Goodput : 0.0000
+394.000 | avg_RTT : 0.0000
+394.000 | Sending rate : 0.0000
+394.000 | Goodput : 0.0000
+396.021 | avg_RTT : 0.0000
+396.021 | Sending rate : 0.0000
+396.021 | Goodput : 0.0000
+398.060 | avg_RTT : 0.0000
+398.060 | Sending rate : 0.0000
+398.060 | Goodput : 0.0000
+400.043 | avg_RTT : 0.0000
+400.043 | Sending rate : 0.0000
+400.043 | Goodput : 0.0000
+402.000 | avg_RTT : 0.0000
+402.000 | Sending rate : 0.0000
+402.000 | Goodput : 0.0000
+404.002 | avg_RTT : 0.0000
+404.002 | Sending rate : 0.0000
+404.002 | Goodput : 0.0000
+406.000 | avg_RTT : 0.0000
+406.000 | Sending rate : 0.0000
+406.000 | Goodput : 0.0000
+408.002 | avg_RTT : 0.0000
+408.002 | Sending rate : 0.0000
+408.002 | Goodput : 0.0000
+410.064 | avg_RTT : 0.0000
+410.064 | Sending rate : 0.0000
+410.064 | Goodput : 0.0000
+412.001 | avg_RTT : 0.0000
+412.001 | Sending rate : 0.0000
+412.001 | Goodput : 0.0000
+414.004 | avg_RTT : 0.0000
+414.004 | Sending rate : 0.0000
+414.004 | Goodput : 0.0000
+416.000 | avg_RTT : 0.0000
+416.000 | Sending rate : 0.0000
+416.000 | Goodput : 0.0000
+418.000 | avg_RTT : 0.0000
+418.000 | Sending rate : 0.0000
+418.000 | Goodput : 0.0000
+420.000 | avg_RTT : 0.0000
+420.000 | Sending rate : 0.0000
+420.000 | Goodput : 0.0000
+422.003 | avg_RTT : 0.0000
+422.003 | Sending rate : 0.0000
+422.003 | Goodput : 0.0000
+424.000 | avg_RTT : 0.0000
+424.000 | Sending rate : 0.0000
+424.000 | Goodput : 0.0000
+426.005 | avg_RTT : 0.0000
+426.005 | Sending rate : 0.0000
+426.005 | Goodput : 0.0000
+428.002 | avg_RTT : 0.0000
+428.002 | Sending rate : 0.0000
+428.002 | Goodput : 0.0000
+430.000 | avg_RTT : 0.0000
+430.000 | Sending rate : 0.0000
+430.000 | Goodput : 0.0000
+432.000 | avg_RTT : 0.0000
+432.000 | Sending rate : 0.0000
+432.000 | Goodput : 0.0000
+434.000 | avg_RTT : 0.0000
+434.000 | Sending rate : 0.0000
+434.000 | Goodput : 0.0000
+436.014 | avg_RTT : 0.0000
+436.014 | Sending rate : 0.0000
+436.014 | Goodput : 0.0000
+438.000 | avg_RTT : 0.0000
+438.000 | Sending rate : 0.0000
+438.000 | Goodput : 0.0000
+440.125 | avg_RTT : 0.0000
+440.125 | Sending rate : 0.0000
+440.125 | Goodput : 0.0000
+442.000 | avg_RTT : 0.0000
+442.000 | Sending rate : 0.0000
+442.000 | Goodput : 0.0000
+444.049 | avg_RTT : 0.0000
+444.049 | Sending rate : 0.0000
+444.049 | Goodput : 0.0000
+446.002 | avg_RTT : 0.0000
+446.002 | Sending rate : 0.0000
+446.002 | Goodput : 0.0000
+448.000 | avg_RTT : 0.0000
+448.000 | Sending rate : 0.0000
+448.000 | Goodput : 0.0000
+450.000 | avg_RTT : 0.0000
+450.000 | Sending rate : 0.0000
+450.000 | Goodput : 0.0000
+452.002 | avg_RTT : 0.0000
+452.002 | Sending rate : 0.0000
+452.002 | Goodput : 0.0000
+454.005 | avg_RTT : 0.0000
+454.005 | Sending rate : 0.0000
+454.005 | Goodput : 0.0000
+456.002 | avg_RTT : 0.0000
+456.002 | Sending rate : 0.0000
+456.002 | Goodput : 0.0000
+458.006 | avg_RTT : 0.0000
+458.006 | Sending rate : 0.0000
+458.006 | Goodput : 0.0000
+460.025 | avg_RTT : 0.0000
+460.025 | Sending rate : 0.0000
+460.025 | Goodput : 0.0000
+462.015 | avg_RTT : 0.0000
+462.015 | Sending rate : 0.0000
+462.015 | Goodput : 0.0000
+464.018 | avg_RTT : 0.0000
+464.018 | Sending rate : 0.0000
+464.018 | Goodput : 0.0000
+466.001 | avg_RTT : 0.0000
+466.001 | Sending rate : 0.0000
+466.001 | Goodput : 0.0000
+468.001 | avg_RTT : 0.0000
+468.001 | Sending rate : 0.0000
+468.001 | Goodput : 0.0000
+470.019 | avg_RTT : 0.0000
+470.019 | Sending rate : 0.0000
+470.019 | Goodput : 0.0000
+472.013 | avg_RTT : 0.0000
+472.013 | Sending rate : 0.0000
+472.013 | Goodput : 0.0000
+474.016 | avg_RTT : 0.0000
+474.016 | Sending rate : 0.0000
+474.016 | Goodput : 0.0000
+476.000 | avg_RTT : 0.0000
+476.000 | Sending rate : 0.0000
+476.000 | Goodput : 0.0000
+478.000 | avg_RTT : 0.0000
+478.000 | Sending rate : 0.0000
+478.000 | Goodput : 0.0000
+480.000 | avg_RTT : 0.0000
+480.000 | Sending rate : 0.0000
+480.000 | Goodput : 0.0000
+482.000 | avg_RTT : 0.0000
+482.000 | Sending rate : 0.0000
+482.000 | Goodput : 0.0000
+484.030 | avg_RTT : 0.0000
+484.030 | Sending rate : 0.0000
+484.030 | Goodput : 0.0000
+486.045 | avg_RTT : 0.0000
+486.045 | Sending rate : 0.0000
+486.045 | Goodput : 0.0000
+488.003 | avg_RTT : 0.0000
+488.003 | Sending rate : 0.0000
+488.003 | Goodput : 0.0000
+490.000 | avg_RTT : 0.0000
+490.000 | Sending rate : 0.0000
+490.000 | Goodput : 0.0000
+492.000 | avg_RTT : 0.0000
+492.000 | Sending rate : 0.0000
+492.000 | Goodput : 0.0000
+494.005 | avg_RTT : 0.0000
+494.005 | Sending rate : 0.0000
+494.005 | Goodput : 0.0000
+496.000 | avg_RTT : 0.0000
+496.000 | Sending rate : 0.0000
+496.000 | Goodput : 0.0000
+498.061 | avg_RTT : 0.0000
+498.061 | Sending rate : 0.0000
+498.061 | Goodput : 0.0000
+500.004 | avg_RTT : 0.0000
+500.004 | Sending rate : 0.0000
+500.004 | Goodput : 0.0000
+502.027 | avg_RTT : 0.0000
+502.027 | Sending rate : 0.0000
+502.027 | Goodput : 0.0000
+504.061 | avg_RTT : 0.0000
+504.061 | Sending rate : 0.0000
+504.061 | Goodput : 0.0000
+506.002 | avg_RTT : 0.0000
+506.002 | Sending rate : 0.0000
+506.002 | Goodput : 0.0000
+508.011 | avg_RTT : 0.0000
+508.011 | Sending rate : 0.0000
+508.011 | Goodput : 0.0000
+510.000 | avg_RTT : 0.0000
+510.000 | Sending rate : 0.0000
+510.000 | Goodput : 0.0000
+512.001 | avg_RTT : 0.0000
+512.001 | Sending rate : 0.0000
+512.001 | Goodput : 0.0000
+514.000 | avg_RTT : 0.0000
+514.000 | Sending rate : 0.0000
+514.000 | Goodput : 0.0000
+516.005 | avg_RTT : 0.0000
+516.005 | Sending rate : 0.0000
+516.005 | Goodput : 0.0000
+518.003 | avg_RTT : 0.0000
+518.003 | Sending rate : 0.0000
+518.003 | Goodput : 0.0000
+520.000 | avg_RTT : 0.0000
+520.000 | Sending rate : 0.0000
+520.000 | Goodput : 0.0000
+522.015 | avg_RTT : 0.0000
+522.015 | Sending rate : 0.0000
+522.015 | Goodput : 0.0000
+524.003 | avg_RTT : 0.0000
+524.003 | Sending rate : 0.0000
+524.003 | Goodput : 0.0000
+526.004 | avg_RTT : 0.0000
+526.004 | Sending rate : 0.0000
+526.004 | Goodput : 0.0000
+528.000 | avg_RTT : 0.0000
+528.000 | Sending rate : 0.0000
+528.000 | Goodput : 0.0000
+530.000 | avg_RTT : 0.0000
+530.000 | Sending rate : 0.0000
+530.000 | Goodput : 0.0000
+532.000 | avg_RTT : 0.0000
+532.000 | Sending rate : 0.0000
+532.000 | Goodput : 0.0000
+534.004 | avg_RTT : 0.0000
+534.004 | Sending rate : 0.0000
+534.004 | Goodput : 0.0000
+536.004 | avg_RTT : 0.0000
+536.004 | Sending rate : 0.0000
+536.004 | Goodput : 0.0000
+538.011 | avg_RTT : 0.0000
+538.011 | Sending rate : 0.0000
+538.011 | Goodput : 0.0000
+540.000 | avg_RTT : 0.0000
+540.000 | Sending rate : 0.0000
+540.000 | Goodput : 0.0000
+542.000 | avg_RTT : 0.0000
+542.000 | Sending rate : 0.0000
+542.000 | Goodput : 0.0000
+544.000 | avg_RTT : 0.0000
+544.000 | Sending rate : 0.0000
+544.000 | Goodput : 0.0000
+546.000 | avg_RTT : 0.0000
+546.000 | Sending rate : 0.0000
+546.000 | Goodput : 0.0000
+548.004 | avg_RTT : 0.0000
+548.004 | Sending rate : 0.0000
+548.004 | Goodput : 0.0000
+550.013 | avg_RTT : 0.0000
+550.013 | Sending rate : 0.0000
+550.013 | Goodput : 0.0000
+552.037 | avg_RTT : 0.0000
+552.037 | Sending rate : 0.0000
+552.037 | Goodput : 0.0000
+554.000 | avg_RTT : 0.0000
+554.000 | Sending rate : 0.0000
+554.000 | Goodput : 0.0000
+556.012 | avg_RTT : 0.0000
+556.012 | Sending rate : 0.0000
+556.012 | Goodput : 0.0000
+558.000 | avg_RTT : 0.0000
+558.000 | Sending rate : 0.0000
+558.000 | Goodput : 0.0000
+560.000 | avg_RTT : 0.0000
+560.000 | Sending rate : 0.0000
+560.000 | Goodput : 0.0000
+562.045 | avg_RTT : 0.0000
+562.045 | Sending rate : 0.0000
+562.045 | Goodput : 0.0000
+564.000 | avg_RTT : 0.0000
+564.000 | Sending rate : 0.0000
+564.000 | Goodput : 0.0000
+566.077 | avg_RTT : 0.0000
+566.077 | Sending rate : 0.0000
+566.077 | Goodput : 0.0000
+568.147 | avg_RTT : 0.0000
+568.147 | Sending rate : 0.0000
+568.147 | Goodput : 0.0000
+570.008 | avg_RTT : 0.0000
+570.008 | Sending rate : 0.0000
+570.008 | Goodput : 0.0000
+572.002 | avg_RTT : 0.0000
+572.002 | Sending rate : 0.0000
+572.002 | Goodput : 0.0000
+574.000 | avg_RTT : 0.0000
+574.000 | Sending rate : 0.0000
+574.000 | Goodput : 0.0000
+576.002 | avg_RTT : 0.0000
+576.002 | Sending rate : 0.0000

@@ -1,0 +1,70 @@
+Packet number 0	00:00:00sent
+Packet number 1	00:00:00sent
+Packet number 2	00:00:00sent
+Packet number 3	00:00:00sent
+Packet number 4	00:00:00sent
+Packet number 5	00:00:00sent
+Packet number 6	00:00:00sent
+Packet number 7	00:00:00sent
+Packet number 8	00:00:00sent
+Packet number 9	00:00:00sent
+Packet number 10	00:00:00sent
+Packet number 11	00:00:00sent
+Packet number 12	00:00:00sent
+Packet number 13	00:00:00sent
+Packet number 14	00:00:00sent
+Packet number 15	00:00:00sent
+Packet number 15	00:00:00got ack
+###########################################
+Packet number 16	00:00:01time out retransmission
+
+Packet number 16	00:00:01sent
+Packet number 17	00:00:01sent
+Packet number 18	00:00:01sent
+Packet number 19	00:00:01sent
+Packet number 20	00:00:01sent
+Packet number 21	00:00:01sent
+Packet number 22	00:00:01sent
+Packet number 23	00:00:01sent
+Packet number 24	00:00:01sent
+Packet number 25	00:00:01sent
+Packet number 26	00:00:01sent
+Packet number 27	00:00:01sent
+Packet number 28	00:00:01sent
+Packet number 29	00:00:01sent
+Packet number 30	00:00:01sent
+Packet number 29	00:00:01got ack
+Packet number 31	00:00:01sent
+###########################################
+Packet number 30	00:00:02time out retransmission
+
+Packet number 30	00:00:02sent
+Packet number 31	00:00:02sent
+Packet number 32	00:00:02sent
+Packet number 33	00:00:02sent
+Packet number 34	00:00:02sent
+Packet number 35	00:00:02sent
+Packet number 36	00:00:02sent
+Packet number 37	00:00:02sent
+Packet number 38	00:00:02sent
+Packet number 39	00:00:02sent
+Packet number 40	00:00:02sent
+Packet number 41	00:00:02sent
+Packet number 42	00:00:02sent
+Packet number 43	00:00:02sent
+Packet number 44	00:00:02sent
+Packet number 45	00:00:02sent
+Packet number 45	00:00:02got ack
+###########################################
+Packet number 46	00:00:03time out retransmission
+
+Packet number 46	00:00:03sent
+Packet number 47	00:00:03sent
+Packet number 48	00:00:03sent
+Packet number 49	00:00:03sent
+Packet number 50	00:00:03sent
+Packet number 51	00:00:03sent
+Packet number 52	00:00:03got ack
+Packet number 52	00:00:03sent
+###########################################
+Good put:	14.577205450570297packets/sec

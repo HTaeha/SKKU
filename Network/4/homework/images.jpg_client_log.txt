@@ -1,0 +1,18 @@
+Packet number 0	00:00:00sent
+Packet number 1	00:00:00sent
+Packet number 2	00:00:00sent
+Packet number 3	00:00:00sent
+Packet number 4	00:00:00sent
+Packet number 5	00:00:00sent
+###########################################
+Packet number 0	00:00:01time out retransmission
+
+Packet number 0	00:00:01sent
+Packet number 1	00:00:01sent
+Packet number 2	00:00:01sent
+Packet number 3	00:00:01sent
+Packet number 4	00:00:01sent
+Packet number 5	00:00:01sent
+Packet number 5	00:00:01got ack
+###########################################
+Good put:	5.26105145250648packets/sec

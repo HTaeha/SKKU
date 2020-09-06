@@ -1,0 +1,543 @@
+Using TensorFlow backend.
+/home/2014313303/.local/lib/python3.5/site-packages/sklearn/linear_model/logistic.py:432: FutureWarning: Default solver will be changed to 'lbfgs' in 0.22. Specify a solver to silence this warning.
+  FutureWarning)
+/home/2014313303/.local/lib/python3.5/site-packages/sklearn/utils/validation.py:752: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples, ), for example using ravel().
+  y = column_or_1d(y, warn=True)
+DeepLearning_Models.py:75: RuntimeWarning: invalid value encountered in long_scalars
+  precision = TP / (TP + FP)
+/home/2014313303/.local/lib/python3.5/site-packages/sklearn/linear_model/logistic.py:432: FutureWarning: Default solver will be changed to 'lbfgs' in 0.22. Specify a solver to silence this warning.
+  FutureWarning)
+/home/2014313303/.local/lib/python3.5/site-packages/sklearn/utils/validation.py:752: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples, ), for example using ravel().
+  y = column_or_1d(y, warn=True)
+DeepLearning_Models.py:75: RuntimeWarning: invalid value encountered in long_scalars
+  precision = TP / (TP + FP)
+/home/2014313303/.local/lib/python3.5/site-packages/sklearn/linear_model/logistic.py:432: FutureWarning: Default solver will be changed to 'lbfgs' in 0.22. Specify a solver to silence this warning.
+  FutureWarning)
+/home/2014313303/.local/lib/python3.5/site-packages/sklearn/utils/validation.py:752: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples, ), for example using ravel().
+  y = column_or_1d(y, warn=True)
+DeepLearning_Models.py:75: RuntimeWarning: invalid value encountered in long_scalars
+  precision = TP / (TP + FP)
+/home/2014313303/.local/lib/python3.5/site-packages/sklearn/linear_model/logistic.py:432: FutureWarning: Default solver will be changed to 'lbfgs' in 0.22. Specify a solver to silence this warning.
+  FutureWarning)
+/home/2014313303/.local/lib/python3.5/site-packages/sklearn/utils/validation.py:752: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples, ), for example using ravel().
+  y = column_or_1d(y, warn=True)
+DeepLearning_Models.py:75: RuntimeWarning: invalid value encountered in long_scalars
+  precision = TP / (TP + FP)
+/home/2014313303/.local/lib/python3.5/site-packages/sklearn/linear_model/logistic.py:432: FutureWarning: Default solver will be changed to 'lbfgs' in 0.22. Specify a solver to silence this warning.
+  FutureWarning)
+/home/2014313303/.local/lib/python3.5/site-packages/sklearn/utils/validation.py:752: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples, ), for example using ravel().
+  y = column_or_1d(y, warn=True)
+DeepLearning_Models.py:75: RuntimeWarning: invalid value encountered in long_scalars
+  precision = TP / (TP + FP)
+/home/2014313303/.local/lib/python3.5/site-packages/sklearn/linear_model/logistic.py:432: FutureWarning: Default solver will be changed to 'lbfgs' in 0.22. Specify a solver to silence this warning.
+  FutureWarning)
+/home/2014313303/.local/lib/python3.5/site-packages/sklearn/utils/validation.py:752: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples, ), for example using ravel().
+  y = column_or_1d(y, warn=True)
+DeepLearning_Models.py:75: RuntimeWarning: invalid value encountered in long_scalars
+  precision = TP / (TP + FP)
+/home/2014313303/.local/lib/python3.5/site-packages/sklearn/linear_model/logistic.py:432: FutureWarning: Default solver will be changed to 'lbfgs' in 0.22. Specify a solver to silence this warning.
+  FutureWarning)
+/home/2014313303/.local/lib/python3.5/site-packages/sklearn/utils/validation.py:752: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples, ), for example using ravel().
+  y = column_or_1d(y, warn=True)
+DeepLearning_Models.py:75: RuntimeWarning: invalid value encountered in long_scalars
+  precision = TP / (TP + FP)
+/home/2014313303/.local/lib/python3.5/site-packages/sklearn/linear_model/logistic.py:432: FutureWarning: Default solver will be changed to 'lbfgs' in 0.22. Specify a solver to silence this warning.
+  FutureWarning)
+/home/2014313303/.local/lib/python3.5/site-packages/sklearn/utils/validation.py:752: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples, ), for example using ravel().
+  y = column_or_1d(y, warn=True)
+DeepLearning_Models.py:75: RuntimeWarning: invalid value encountered in long_scalars
+  precision = TP / (TP + FP)
+/home/2014313303/.local/lib/python3.5/site-packages/sklearn/linear_model/logistic.py:432: FutureWarning: Default solver will be changed to 'lbfgs' in 0.22. Specify a solver to silence this warning.
+  FutureWarning)
+/home/2014313303/.local/lib/python3.5/site-packages/sklearn/utils/validation.py:752: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples, ), for example using ravel().
+  y = column_or_1d(y, warn=True)
+DeepLearning_Models.py:75: RuntimeWarning: invalid value encountered in long_scalars
+  precision = TP / (TP + FP)
+/home/2014313303/.local/lib/python3.5/site-packages/sklearn/linear_model/logistic.py:432: FutureWarning: Default solver will be changed to 'lbfgs' in 0.22. Specify a solver to silence this warning.
+  FutureWarning)
+/home/2014313303/.local/lib/python3.5/site-packages/sklearn/utils/validation.py:752: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples, ), for example using ravel().
+  y = column_or_1d(y, warn=True)
+DeepLearning_Models.py:75: RuntimeWarning: invalid value encountered in long_scalars
+  precision = TP / (TP + FP)
+1th cross validation
+RBM
+[BernoulliRBM] Iteration 1, pseudo-likelihood = -55692.15, time = 0.03s
+[BernoulliRBM] Iteration 2, pseudo-likelihood = -114745.63, time = 0.07s
+[BernoulliRBM] Iteration 3, pseudo-likelihood = -153272.46, time = 0.03s
+[BernoulliRBM] Iteration 4, pseudo-likelihood = -236456.63, time = 0.03s
+[BernoulliRBM] Iteration 5, pseudo-likelihood = -329255.85, time = 0.03s
+[BernoulliRBM] Iteration 6, pseudo-likelihood = -297756.40, time = 0.03s
+[BernoulliRBM] Iteration 7, pseudo-likelihood = -401585.55, time = 0.03s
+[BernoulliRBM] Iteration 8, pseudo-likelihood = -378867.85, time = 0.03s
+[BernoulliRBM] Iteration 9, pseudo-likelihood = -521804.58, time = 0.03s
+[BernoulliRBM] Iteration 10, pseudo-likelihood = -746148.23, time = 0.03s
+[BernoulliRBM] Iteration 11, pseudo-likelihood = -550228.43, time = 0.03s
+[BernoulliRBM] Iteration 12, pseudo-likelihood = -632160.40, time = 0.03s
+[BernoulliRBM] Iteration 13, pseudo-likelihood = -554617.51, time = 0.03s
+[BernoulliRBM] Iteration 14, pseudo-likelihood = -541195.97, time = 0.03s
+[BernoulliRBM] Iteration 15, pseudo-likelihood = -1057620.43, time = 0.03s
+[BernoulliRBM] Iteration 16, pseudo-likelihood = -700055.54, time = 0.03s
+[BernoulliRBM] Iteration 17, pseudo-likelihood = -753010.45, time = 0.03s
+[BernoulliRBM] Iteration 18, pseudo-likelihood = -1043652.52, time = 0.03s
+[BernoulliRBM] Iteration 19, pseudo-likelihood = -989070.34, time = 0.03s
+[BernoulliRBM] Iteration 20, pseudo-likelihood = -1337713.23, time = 0.03s
+[BernoulliRBM] Iteration 21, pseudo-likelihood = -1022008.50, time = 0.03s
+[BernoulliRBM] Iteration 22, pseudo-likelihood = -1057558.71, time = 0.03s
+[BernoulliRBM] Iteration 23, pseudo-likelihood = -948243.81, time = 0.03s
+[BernoulliRBM] Iteration 24, pseudo-likelihood = -1615852.45, time = 0.03s
+[BernoulliRBM] Iteration 25, pseudo-likelihood = -1056637.68, time = 0.03s
+[BernoulliRBM] Iteration 26, pseudo-likelihood = -1927974.68, time = 0.03s
+[BernoulliRBM] Iteration 27, pseudo-likelihood = -1790526.94, time = 0.03s
+[BernoulliRBM] Iteration 28, pseudo-likelihood = -2078940.00, time = 0.03s
+[BernoulliRBM] Iteration 29, pseudo-likelihood = -2194633.19, time = 0.03s
+[BernoulliRBM] Iteration 30, pseudo-likelihood = -1943116.39, time = 0.03s
+[BernoulliRBM] Iteration 31, pseudo-likelihood = -1323386.96, time = 0.03s
+[BernoulliRBM] Iteration 32, pseudo-likelihood = -1400569.56, time = 0.03s
+[BernoulliRBM] Iteration 33, pseudo-likelihood = -2571416.45, time = 0.03s
+[BernoulliRBM] Iteration 34, pseudo-likelihood = -2453090.38, time = 0.03s
+[BernoulliRBM] Iteration 35, pseudo-likelihood = -2538213.23, time = 0.03s
+[BernoulliRBM] Iteration 36, pseudo-likelihood = -2006505.14, time = 0.03s
+[BernoulliRBM] Iteration 37, pseudo-likelihood = -2627167.20, time = 0.03s
+[BernoulliRBM] Iteration 38, pseudo-likelihood = -1607701.77, time = 0.03s
+[BernoulliRBM] Iteration 39, pseudo-likelihood = -2524454.79, time = 0.03s
+[BernoulliRBM] Iteration 40, pseudo-likelihood = -2649396.37, time = 0.03s
+accuracy : 0.5
+precision : nan
+recall : 0.0
+F1-score : nan
+=========================================
+
+2th cross validation
+RBM
+[BernoulliRBM] Iteration 1, pseudo-likelihood = -57322.98, time = 0.02s
+[BernoulliRBM] Iteration 2, pseudo-likelihood = -119431.90, time = 0.03s
+[BernoulliRBM] Iteration 3, pseudo-likelihood = -153205.31, time = 0.03s
+[BernoulliRBM] Iteration 4, pseudo-likelihood = -144195.81, time = 0.03s
+[BernoulliRBM] Iteration 5, pseudo-likelihood = -291079.06, time = 0.03s
+[BernoulliRBM] Iteration 6, pseudo-likelihood = -440329.06, time = 0.03s
+[BernoulliRBM] Iteration 7, pseudo-likelihood = -453230.15, time = 0.03s
+[BernoulliRBM] Iteration 8, pseudo-likelihood = -353265.36, time = 0.03s
+[BernoulliRBM] Iteration 9, pseudo-likelihood = -455779.42, time = 0.03s
+[BernoulliRBM] Iteration 10, pseudo-likelihood = -679763.20, time = 0.03s
+[BernoulliRBM] Iteration 11, pseudo-likelihood = -360620.69, time = 0.03s
+[BernoulliRBM] Iteration 12, pseudo-likelihood = -731037.35, time = 0.03s
+[BernoulliRBM] Iteration 13, pseudo-likelihood = -876555.33, time = 0.03s
+[BernoulliRBM] Iteration 14, pseudo-likelihood = -951602.13, time = 0.03s
+[BernoulliRBM] Iteration 15, pseudo-likelihood = -783766.95, time = 0.03s
+[BernoulliRBM] Iteration 16, pseudo-likelihood = -1008818.05, time = 0.03s
+[BernoulliRBM] Iteration 17, pseudo-likelihood = -943273.42, time = 0.03s
+[BernoulliRBM] Iteration 18, pseudo-likelihood = -1018859.68, time = 0.03s
+[BernoulliRBM] Iteration 19, pseudo-likelihood = -1023211.41, time = 0.03s
+[BernoulliRBM] Iteration 20, pseudo-likelihood = -1044015.99, time = 0.03s
+[BernoulliRBM] Iteration 21, pseudo-likelihood = -1232400.97, time = 0.03s
+[BernoulliRBM] Iteration 22, pseudo-likelihood = -1364026.02, time = 0.03s
+[BernoulliRBM] Iteration 23, pseudo-likelihood = -1016285.55, time = 0.03s
+[BernoulliRBM] Iteration 24, pseudo-likelihood = -1162379.39, time = 0.03s
+[BernoulliRBM] Iteration 25, pseudo-likelihood = -1267529.77, time = 0.03s
+[BernoulliRBM] Iteration 26, pseudo-likelihood = -1652902.96, time = 0.03s
+[BernoulliRBM] Iteration 27, pseudo-likelihood = -1441583.09, time = 0.03s
+[BernoulliRBM] Iteration 28, pseudo-likelihood = -1781991.32, time = 0.03s
+[BernoulliRBM] Iteration 29, pseudo-likelihood = -1765135.21, time = 0.03s
+[BernoulliRBM] Iteration 30, pseudo-likelihood = -1845852.06, time = 0.03s
+[BernoulliRBM] Iteration 31, pseudo-likelihood = -1319094.94, time = 0.03s
+[BernoulliRBM] Iteration 32, pseudo-likelihood = -1342217.72, time = 0.03s
+[BernoulliRBM] Iteration 33, pseudo-likelihood = -2976116.91, time = 0.03s
+[BernoulliRBM] Iteration 34, pseudo-likelihood = -2385400.35, time = 0.03s
+[BernoulliRBM] Iteration 35, pseudo-likelihood = -2851472.21, time = 0.03s
+[BernoulliRBM] Iteration 36, pseudo-likelihood = -2003267.45, time = 0.03s
+[BernoulliRBM] Iteration 37, pseudo-likelihood = -1954850.56, time = 0.03s
+[BernoulliRBM] Iteration 38, pseudo-likelihood = -2236492.30, time = 0.03s
+[BernoulliRBM] Iteration 39, pseudo-likelihood = -1997124.32, time = 0.03s
+[BernoulliRBM] Iteration 40, pseudo-likelihood = -2114036.75, time = 0.03s
+accuracy : 0.5454545454545454
+precision : nan
+recall : 0.0
+F1-score : nan
+=========================================
+
+3th cross validation
+RBM
+[BernoulliRBM] Iteration 1, pseudo-likelihood = -37823.42, time = 0.02s
+[BernoulliRBM] Iteration 2, pseudo-likelihood = -101563.65, time = 0.03s
+[BernoulliRBM] Iteration 3, pseudo-likelihood = -139532.55, time = 0.03s
+[BernoulliRBM] Iteration 4, pseudo-likelihood = -191901.83, time = 0.03s
+[BernoulliRBM] Iteration 5, pseudo-likelihood = -269846.45, time = 0.03s
+[BernoulliRBM] Iteration 6, pseudo-likelihood = -325454.64, time = 0.03s
+[BernoulliRBM] Iteration 7, pseudo-likelihood = -261076.93, time = 0.03s
+[BernoulliRBM] Iteration 8, pseudo-likelihood = -300316.54, time = 0.03s
+[BernoulliRBM] Iteration 9, pseudo-likelihood = -414722.81, time = 0.03s
+[BernoulliRBM] Iteration 10, pseudo-likelihood = -428029.66, time = 0.03s
+[BernoulliRBM] Iteration 11, pseudo-likelihood = -729850.12, time = 0.03s
+[BernoulliRBM] Iteration 12, pseudo-likelihood = -523727.18, time = 0.03s
+[BernoulliRBM] Iteration 13, pseudo-likelihood = -667922.47, time = 0.03s
+[BernoulliRBM] Iteration 14, pseudo-likelihood = -546382.34, time = 0.03s
+[BernoulliRBM] Iteration 15, pseudo-likelihood = -770733.93, time = 0.03s
+[BernoulliRBM] Iteration 16, pseudo-likelihood = -698109.33, time = 0.03s
+[BernoulliRBM] Iteration 17, pseudo-likelihood = -723531.13, time = 0.03s
+[BernoulliRBM] Iteration 18, pseudo-likelihood = -863849.04, time = 0.03s
+[BernoulliRBM] Iteration 19, pseudo-likelihood = -1017699.57, time = 0.03s
+[BernoulliRBM] Iteration 20, pseudo-likelihood = -1208460.36, time = 0.03s
+[BernoulliRBM] Iteration 21, pseudo-likelihood = -1188777.67, time = 0.03s
+[BernoulliRBM] Iteration 22, pseudo-likelihood = -1056775.49, time = 0.03s
+[BernoulliRBM] Iteration 23, pseudo-likelihood = -827244.91, time = 0.03s
+[BernoulliRBM] Iteration 24, pseudo-likelihood = -910558.88, time = 0.03s
+[BernoulliRBM] Iteration 25, pseudo-likelihood = -892120.31, time = 0.03s
+[BernoulliRBM] Iteration 26, pseudo-likelihood = -877592.30, time = 0.03s
+[BernoulliRBM] Iteration 27, pseudo-likelihood = -749066.92, time = 0.03s
+[BernoulliRBM] Iteration 28, pseudo-likelihood = -1314887.64, time = 0.03s
+[BernoulliRBM] Iteration 29, pseudo-likelihood = -1377583.44, time = 0.03s
+[BernoulliRBM] Iteration 30, pseudo-likelihood = -1046612.80, time = 0.03s
+[BernoulliRBM] Iteration 31, pseudo-likelihood = -1908635.53, time = 0.03s
+[BernoulliRBM] Iteration 32, pseudo-likelihood = -1054423.19, time = 0.03s
+[BernoulliRBM] Iteration 33, pseudo-likelihood = -1522300.39, time = 0.03s
+[BernoulliRBM] Iteration 34, pseudo-likelihood = -2137213.99, time = 0.03s
+[BernoulliRBM] Iteration 35, pseudo-likelihood = -1538392.85, time = 0.03s
+[BernoulliRBM] Iteration 36, pseudo-likelihood = -1155486.69, time = 0.03s
+[BernoulliRBM] Iteration 37, pseudo-likelihood = -1250345.75, time = 0.03s
+[BernoulliRBM] Iteration 38, pseudo-likelihood = -2151750.36, time = 0.03s
+[BernoulliRBM] Iteration 39, pseudo-likelihood = -2130562.29, time = 0.03s
+[BernoulliRBM] Iteration 40, pseudo-likelihood = -1726353.21, time = 0.03s
+accuracy : 0.5
+precision : nan
+recall : 0.0
+F1-score : nan
+=========================================
+
+4th cross validation
+RBM
+[BernoulliRBM] Iteration 1, pseudo-likelihood = -67405.36, time = 0.02s
+[BernoulliRBM] Iteration 2, pseudo-likelihood = -141766.52, time = 0.03s
+[BernoulliRBM] Iteration 3, pseudo-likelihood = -186362.18, time = 0.03s
+[BernoulliRBM] Iteration 4, pseudo-likelihood = -174271.69, time = 0.03s
+[BernoulliRBM] Iteration 5, pseudo-likelihood = -251417.16, time = 0.03s
+[BernoulliRBM] Iteration 6, pseudo-likelihood = -308546.09, time = 0.03s
+[BernoulliRBM] Iteration 7, pseudo-likelihood = -329502.04, time = 0.03s
+[BernoulliRBM] Iteration 8, pseudo-likelihood = -471676.49, time = 0.03s
+[BernoulliRBM] Iteration 9, pseudo-likelihood = -410274.20, time = 0.03s
+[BernoulliRBM] Iteration 10, pseudo-likelihood = -563215.31, time = 0.03s
+[BernoulliRBM] Iteration 11, pseudo-likelihood = -573254.02, time = 0.03s
+[BernoulliRBM] Iteration 12, pseudo-likelihood = -1044712.56, time = 0.03s
+[BernoulliRBM] Iteration 13, pseudo-likelihood = -629860.65, time = 0.03s
+[BernoulliRBM] Iteration 14, pseudo-likelihood = -743087.44, time = 0.03s
+[BernoulliRBM] Iteration 15, pseudo-likelihood = -731044.94, time = 0.03s
+[BernoulliRBM] Iteration 16, pseudo-likelihood = -1012711.99, time = 0.03s
+[BernoulliRBM] Iteration 17, pseudo-likelihood = -1222160.56, time = 0.03s
+[BernoulliRBM] Iteration 18, pseudo-likelihood = -824087.04, time = 0.03s
+[BernoulliRBM] Iteration 19, pseudo-likelihood = -1090495.10, time = 0.03s
+[BernoulliRBM] Iteration 20, pseudo-likelihood = -1235254.34, time = 0.03s
+[BernoulliRBM] Iteration 21, pseudo-likelihood = -871126.75, time = 0.03s
+[BernoulliRBM] Iteration 22, pseudo-likelihood = -1233788.58, time = 0.03s
+[BernoulliRBM] Iteration 23, pseudo-likelihood = -928773.27, time = 0.03s
+[BernoulliRBM] Iteration 24, pseudo-likelihood = -1318932.36, time = 0.03s
+[BernoulliRBM] Iteration 25, pseudo-likelihood = -1352703.64, time = 0.03s
+[BernoulliRBM] Iteration 26, pseudo-likelihood = -1472775.00, time = 0.03s
+[BernoulliRBM] Iteration 27, pseudo-likelihood = -1645504.10, time = 0.03s
+[BernoulliRBM] Iteration 28, pseudo-likelihood = -1267651.04, time = 0.03s
+[BernoulliRBM] Iteration 29, pseudo-likelihood = -1931913.93, time = 0.03s
+[BernoulliRBM] Iteration 30, pseudo-likelihood = -1932550.75, time = 0.03s
+[BernoulliRBM] Iteration 31, pseudo-likelihood = -1485213.60, time = 0.03s
+[BernoulliRBM] Iteration 32, pseudo-likelihood = -1327333.52, time = 0.03s
+[BernoulliRBM] Iteration 33, pseudo-likelihood = -1067276.01, time = 0.03s
+[BernoulliRBM] Iteration 34, pseudo-likelihood = -2064218.67, time = 0.03s
+[BernoulliRBM] Iteration 35, pseudo-likelihood = -1150482.95, time = 0.03s
+[BernoulliRBM] Iteration 36, pseudo-likelihood = -2901473.06, time = 0.03s
+[BernoulliRBM] Iteration 37, pseudo-likelihood = -1754514.17, time = 0.03s
+[BernoulliRBM] Iteration 38, pseudo-likelihood = -1790728.27, time = 0.03s
+[BernoulliRBM] Iteration 39, pseudo-likelihood = -2470763.51, time = 0.03s
+[BernoulliRBM] Iteration 40, pseudo-likelihood = -1918834.86, time = 0.03s
+accuracy : 0.6615384615384615
+precision : nan
+recall : 0.0
+F1-score : nan
+=========================================
+
+5th cross validation
+RBM
+[BernoulliRBM] Iteration 1, pseudo-likelihood = -56088.91, time = 0.02s
+[BernoulliRBM] Iteration 2, pseudo-likelihood = -99167.57, time = 0.03s
+[BernoulliRBM] Iteration 3, pseudo-likelihood = -133096.30, time = 0.03s
+[BernoulliRBM] Iteration 4, pseudo-likelihood = -227389.40, time = 0.03s
+[BernoulliRBM] Iteration 5, pseudo-likelihood = -242578.15, time = 0.03s
+[BernoulliRBM] Iteration 6, pseudo-likelihood = -302786.14, time = 0.03s
+[BernoulliRBM] Iteration 7, pseudo-likelihood = -307720.79, time = 0.03s
+[BernoulliRBM] Iteration 8, pseudo-likelihood = -296864.04, time = 0.03s
+[BernoulliRBM] Iteration 9, pseudo-likelihood = -440078.26, time = 0.03s
+[BernoulliRBM] Iteration 10, pseudo-likelihood = -480928.23, time = 0.03s
+[BernoulliRBM] Iteration 11, pseudo-likelihood = -502991.55, time = 0.03s
+[BernoulliRBM] Iteration 12, pseudo-likelihood = -541867.88, time = 0.03s
+[BernoulliRBM] Iteration 13, pseudo-likelihood = -680626.83, time = 0.03s
+[BernoulliRBM] Iteration 14, pseudo-likelihood = -831361.32, time = 0.03s
+[BernoulliRBM] Iteration 15, pseudo-likelihood = -561404.03, time = 0.03s
+[BernoulliRBM] Iteration 16, pseudo-likelihood = -988534.83, time = 0.03s
+[BernoulliRBM] Iteration 17, pseudo-likelihood = -955394.98, time = 0.03s
+[BernoulliRBM] Iteration 18, pseudo-likelihood = -665497.24, time = 0.03s
+[BernoulliRBM] Iteration 19, pseudo-likelihood = -915373.82, time = 0.03s
+[BernoulliRBM] Iteration 20, pseudo-likelihood = -916569.23, time = 0.03s
+[BernoulliRBM] Iteration 21, pseudo-likelihood = -1207840.94, time = 0.03s
+[BernoulliRBM] Iteration 22, pseudo-likelihood = -1266032.15, time = 0.03s
+[BernoulliRBM] Iteration 23, pseudo-likelihood = -1297449.25, time = 0.03s
+[BernoulliRBM] Iteration 24, pseudo-likelihood = -1485305.93, time = 0.03s
+[BernoulliRBM] Iteration 25, pseudo-likelihood = -1906085.60, time = 0.03s
+[BernoulliRBM] Iteration 26, pseudo-likelihood = -1405449.80, time = 0.03s
+[BernoulliRBM] Iteration 27, pseudo-likelihood = -1494256.03, time = 0.03s
+[BernoulliRBM] Iteration 28, pseudo-likelihood = -2126207.73, time = 0.03s
+[BernoulliRBM] Iteration 29, pseudo-likelihood = -1274363.70, time = 0.03s
+[BernoulliRBM] Iteration 30, pseudo-likelihood = -1446735.58, time = 0.03s
+[BernoulliRBM] Iteration 31, pseudo-likelihood = -1841110.82, time = 0.03s
+[BernoulliRBM] Iteration 32, pseudo-likelihood = -1749436.01, time = 0.03s
+[BernoulliRBM] Iteration 33, pseudo-likelihood = -1666177.46, time = 0.03s
+[BernoulliRBM] Iteration 34, pseudo-likelihood = -2120326.55, time = 0.03s
+[BernoulliRBM] Iteration 35, pseudo-likelihood = -1744236.17, time = 0.03s
+[BernoulliRBM] Iteration 36, pseudo-likelihood = -2512592.40, time = 0.03s
+[BernoulliRBM] Iteration 37, pseudo-likelihood = -2066876.58, time = 0.03s
+[BernoulliRBM] Iteration 38, pseudo-likelihood = -1566485.08, time = 0.03s
+[BernoulliRBM] Iteration 39, pseudo-likelihood = -2839230.12, time = 0.03s
+[BernoulliRBM] Iteration 40, pseudo-likelihood = -1339697.51, time = 0.03s
+accuracy : 0.47692307692307695
+precision : nan
+recall : 0.0
+F1-score : nan
+=========================================
+
+6th cross validation
+RBM
+[BernoulliRBM] Iteration 1, pseudo-likelihood = -69958.62, time = 0.02s
+[BernoulliRBM] Iteration 2, pseudo-likelihood = -146740.36, time = 0.03s
+[BernoulliRBM] Iteration 3, pseudo-likelihood = -185546.58, time = 0.03s
+[BernoulliRBM] Iteration 4, pseudo-likelihood = -289598.61, time = 0.03s
+[BernoulliRBM] Iteration 5, pseudo-likelihood = -369833.99, time = 0.03s
+[BernoulliRBM] Iteration 6, pseudo-likelihood = -355373.81, time = 0.03s
+[BernoulliRBM] Iteration 7, pseudo-likelihood = -274704.50, time = 0.03s
+[BernoulliRBM] Iteration 8, pseudo-likelihood = -441191.05, time = 0.03s
+[BernoulliRBM] Iteration 9, pseudo-likelihood = -623933.52, time = 0.03s
+[BernoulliRBM] Iteration 10, pseudo-likelihood = -582168.69, time = 0.03s
+[BernoulliRBM] Iteration 11, pseudo-likelihood = -356907.13, time = 0.03s
+[BernoulliRBM] Iteration 12, pseudo-likelihood = -686485.30, time = 0.03s
+[BernoulliRBM] Iteration 13, pseudo-likelihood = -489756.87, time = 0.03s
+[BernoulliRBM] Iteration 14, pseudo-likelihood = -904212.52, time = 0.03s
+[BernoulliRBM] Iteration 15, pseudo-likelihood = -930143.82, time = 0.03s
+[BernoulliRBM] Iteration 16, pseudo-likelihood = -1000013.10, time = 0.03s
+[BernoulliRBM] Iteration 17, pseudo-likelihood = -1287732.15, time = 0.03s
+[BernoulliRBM] Iteration 18, pseudo-likelihood = -1257494.36, time = 0.03s
+[BernoulliRBM] Iteration 19, pseudo-likelihood = -715905.29, time = 0.03s
+[BernoulliRBM] Iteration 20, pseudo-likelihood = -691070.14, time = 0.03s
+[BernoulliRBM] Iteration 21, pseudo-likelihood = -1568183.82, time = 0.03s
+[BernoulliRBM] Iteration 22, pseudo-likelihood = -1235376.99, time = 0.03s
+[BernoulliRBM] Iteration 23, pseudo-likelihood = -1233466.66, time = 0.03s
+[BernoulliRBM] Iteration 24, pseudo-likelihood = -1524381.02, time = 0.03s
+[BernoulliRBM] Iteration 25, pseudo-likelihood = -1849963.42, time = 0.03s
+[BernoulliRBM] Iteration 26, pseudo-likelihood = -1569403.53, time = 0.03s
+[BernoulliRBM] Iteration 27, pseudo-likelihood = -989168.12, time = 0.03s
+[BernoulliRBM] Iteration 28, pseudo-likelihood = -1102318.44, time = 0.03s
+[BernoulliRBM] Iteration 29, pseudo-likelihood = -1551324.75, time = 0.03s
+[BernoulliRBM] Iteration 30, pseudo-likelihood = -1432332.42, time = 0.03s
+[BernoulliRBM] Iteration 31, pseudo-likelihood = -2171347.59, time = 0.03s
+[BernoulliRBM] Iteration 32, pseudo-likelihood = -2607454.00, time = 0.03s
+[BernoulliRBM] Iteration 33, pseudo-likelihood = -2010210.45, time = 0.03s
+[BernoulliRBM] Iteration 34, pseudo-likelihood = -1912265.88, time = 0.03s
+[BernoulliRBM] Iteration 35, pseudo-likelihood = -1433208.91, time = 0.03s
+[BernoulliRBM] Iteration 36, pseudo-likelihood = -1566594.74, time = 0.03s
+[BernoulliRBM] Iteration 37, pseudo-likelihood = -1491538.99, time = 0.03s
+[BernoulliRBM] Iteration 38, pseudo-likelihood = -2654870.08, time = 0.03s
+[BernoulliRBM] Iteration 39, pseudo-likelihood = -1780598.37, time = 0.03s
+[BernoulliRBM] Iteration 40, pseudo-likelihood = -1448911.08, time = 0.03s
+accuracy : 0.5692307692307692
+precision : nan
+recall : 0.0
+F1-score : nan
+=========================================
+
+7th cross validation
+RBM
+[BernoulliRBM] Iteration 1, pseudo-likelihood = -60597.09, time = 0.02s
+[BernoulliRBM] Iteration 2, pseudo-likelihood = -129080.68, time = 0.03s
+[BernoulliRBM] Iteration 3, pseudo-likelihood = -174790.96, time = 0.03s
+[BernoulliRBM] Iteration 4, pseudo-likelihood = -201340.75, time = 0.03s
+[BernoulliRBM] Iteration 5, pseudo-likelihood = -209428.85, time = 0.03s
+[BernoulliRBM] Iteration 6, pseudo-likelihood = -244272.24, time = 0.03s
+[BernoulliRBM] Iteration 7, pseudo-likelihood = -398377.05, time = 0.03s
+[BernoulliRBM] Iteration 8, pseudo-likelihood = -334222.30, time = 0.03s
+[BernoulliRBM] Iteration 9, pseudo-likelihood = -693395.74, time = 0.03s
+[BernoulliRBM] Iteration 10, pseudo-likelihood = -504208.97, time = 0.03s
+[BernoulliRBM] Iteration 11, pseudo-likelihood = -648009.62, time = 0.03s
+[BernoulliRBM] Iteration 12, pseudo-likelihood = -866716.76, time = 0.03s
+[BernoulliRBM] Iteration 13, pseudo-likelihood = -758859.22, time = 0.03s
+[BernoulliRBM] Iteration 14, pseudo-likelihood = -877531.59, time = 0.03s
+[BernoulliRBM] Iteration 15, pseudo-likelihood = -588448.88, time = 0.03s
+[BernoulliRBM] Iteration 16, pseudo-likelihood = -713577.39, time = 0.03s
+[BernoulliRBM] Iteration 17, pseudo-likelihood = -948050.06, time = 0.03s
+[BernoulliRBM] Iteration 18, pseudo-likelihood = -887954.72, time = 0.03s
+[BernoulliRBM] Iteration 19, pseudo-likelihood = -846742.48, time = 0.03s
+[BernoulliRBM] Iteration 20, pseudo-likelihood = -709541.08, time = 0.03s
+[BernoulliRBM] Iteration 21, pseudo-likelihood = -1773549.00, time = 0.03s
+[BernoulliRBM] Iteration 22, pseudo-likelihood = -537387.63, time = 0.03s
+[BernoulliRBM] Iteration 23, pseudo-likelihood = -1577927.00, time = 0.03s
+[BernoulliRBM] Iteration 24, pseudo-likelihood = -1235690.12, time = 0.03s
+[BernoulliRBM] Iteration 25, pseudo-likelihood = -1633543.62, time = 0.03s
+[BernoulliRBM] Iteration 26, pseudo-likelihood = -1726846.48, time = 0.03s
+[BernoulliRBM] Iteration 27, pseudo-likelihood = -1591566.30, time = 0.03s
+[BernoulliRBM] Iteration 28, pseudo-likelihood = -1574667.54, time = 0.03s
+[BernoulliRBM] Iteration 29, pseudo-likelihood = -1338678.77, time = 0.03s
+[BernoulliRBM] Iteration 30, pseudo-likelihood = -1419517.59, time = 0.03s
+[BernoulliRBM] Iteration 31, pseudo-likelihood = -1498041.41, time = 0.03s
+[BernoulliRBM] Iteration 32, pseudo-likelihood = -1581925.81, time = 0.03s
+[BernoulliRBM] Iteration 33, pseudo-likelihood = -1611692.16, time = 0.03s
+[BernoulliRBM] Iteration 34, pseudo-likelihood = -1603267.76, time = 0.03s
+[BernoulliRBM] Iteration 35, pseudo-likelihood = -1707298.95, time = 0.03s
+[BernoulliRBM] Iteration 36, pseudo-likelihood = -2488277.78, time = 0.03s
+[BernoulliRBM] Iteration 37, pseudo-likelihood = -2599304.74, time = 0.03s
+[BernoulliRBM] Iteration 38, pseudo-likelihood = -2115266.80, time = 0.03s
+[BernoulliRBM] Iteration 39, pseudo-likelihood = -2484010.80, time = 0.03s
+[BernoulliRBM] Iteration 40, pseudo-likelihood = -1888119.38, time = 0.03s
+accuracy : 0.6153846153846154
+precision : nan
+recall : 0.0
+F1-score : nan
+=========================================
+
+8th cross validation
+RBM
+[BernoulliRBM] Iteration 1, pseudo-likelihood = -60144.32, time = 0.02s
+[BernoulliRBM] Iteration 2, pseudo-likelihood = -149956.49, time = 0.03s
+[BernoulliRBM] Iteration 3, pseudo-likelihood = -181210.97, time = 0.03s
+[BernoulliRBM] Iteration 4, pseudo-likelihood = -239173.90, time = 0.03s
+[BernoulliRBM] Iteration 5, pseudo-likelihood = -160866.27, time = 0.03s
+[BernoulliRBM] Iteration 6, pseudo-likelihood = -502450.44, time = 0.03s
+[BernoulliRBM] Iteration 7, pseudo-likelihood = -491962.08, time = 0.03s
+[BernoulliRBM] Iteration 8, pseudo-likelihood = -366372.33, time = 0.03s
+[BernoulliRBM] Iteration 9, pseudo-likelihood = -705371.19, time = 0.03s
+[BernoulliRBM] Iteration 10, pseudo-likelihood = -615314.86, time = 0.03s
+[BernoulliRBM] Iteration 11, pseudo-likelihood = -432740.43, time = 0.03s
+[BernoulliRBM] Iteration 12, pseudo-likelihood = -635943.66, time = 0.03s
+[BernoulliRBM] Iteration 13, pseudo-likelihood = -674177.76, time = 0.03s
+[BernoulliRBM] Iteration 14, pseudo-likelihood = -725465.09, time = 0.03s
+[BernoulliRBM] Iteration 15, pseudo-likelihood = -597361.56, time = 0.03s
+[BernoulliRBM] Iteration 16, pseudo-likelihood = -1045966.94, time = 0.03s
+[BernoulliRBM] Iteration 17, pseudo-likelihood = -805865.84, time = 0.03s
+[BernoulliRBM] Iteration 18, pseudo-likelihood = -1236427.38, time = 0.03s
+[BernoulliRBM] Iteration 19, pseudo-likelihood = -1097402.88, time = 0.03s
+[BernoulliRBM] Iteration 20, pseudo-likelihood = -1201174.36, time = 0.03s
+[BernoulliRBM] Iteration 21, pseudo-likelihood = -1225127.96, time = 0.03s
+[BernoulliRBM] Iteration 22, pseudo-likelihood = -794288.93, time = 0.03s
+[BernoulliRBM] Iteration 23, pseudo-likelihood = -1542445.02, time = 0.03s
+[BernoulliRBM] Iteration 24, pseudo-likelihood = -1843284.36, time = 0.03s
+[BernoulliRBM] Iteration 25, pseudo-likelihood = -1741879.19, time = 0.03s
+[BernoulliRBM] Iteration 26, pseudo-likelihood = -1416092.82, time = 0.03s
+[BernoulliRBM] Iteration 27, pseudo-likelihood = -1297690.98, time = 0.03s
+[BernoulliRBM] Iteration 28, pseudo-likelihood = -1317296.15, time = 0.03s
+[BernoulliRBM] Iteration 29, pseudo-likelihood = -2116170.26, time = 0.03s
+[BernoulliRBM] Iteration 30, pseudo-likelihood = -1735664.15, time = 0.03s
+[BernoulliRBM] Iteration 31, pseudo-likelihood = -1420308.96, time = 0.03s
+[BernoulliRBM] Iteration 32, pseudo-likelihood = -1729262.79, time = 0.03s
+[BernoulliRBM] Iteration 33, pseudo-likelihood = -1245999.08, time = 0.03s
+[BernoulliRBM] Iteration 34, pseudo-likelihood = -1742747.59, time = 0.03s
+[BernoulliRBM] Iteration 35, pseudo-likelihood = -2289498.74, time = 0.03s
+[BernoulliRBM] Iteration 36, pseudo-likelihood = -2256752.60, time = 0.03s
+[BernoulliRBM] Iteration 37, pseudo-likelihood = -2660299.37, time = 0.03s
+[BernoulliRBM] Iteration 38, pseudo-likelihood = -2345007.36, time = 0.03s
+[BernoulliRBM] Iteration 39, pseudo-likelihood = -2781227.72, time = 0.03s
+[BernoulliRBM] Iteration 40, pseudo-likelihood = -1854499.84, time = 0.03s
+accuracy : 0.5846153846153846
+precision : nan
+recall : 0.0
+F1-score : nan
+=========================================
+
+9th cross validation
+RBM
+[BernoulliRBM] Iteration 1, pseudo-likelihood = -53338.45, time = 0.02s
+[BernoulliRBM] Iteration 2, pseudo-likelihood = -104987.59, time = 0.03s
+[BernoulliRBM] Iteration 3, pseudo-likelihood = -218685.96, time = 0.03s
+[BernoulliRBM] Iteration 4, pseudo-likelihood = -206334.47, time = 0.03s
+[BernoulliRBM] Iteration 5, pseudo-likelihood = -223918.42, time = 0.03s
+[BernoulliRBM] Iteration 6, pseudo-likelihood = -334613.93, time = 0.03s
+[BernoulliRBM] Iteration 7, pseudo-likelihood = -336326.37, time = 0.03s
+[BernoulliRBM] Iteration 8, pseudo-likelihood = -354856.15, time = 0.03s
+[BernoulliRBM] Iteration 9, pseudo-likelihood = -464358.95, time = 0.03s
+[BernoulliRBM] Iteration 10, pseudo-likelihood = -396319.00, time = 0.03s
+[BernoulliRBM] Iteration 11, pseudo-likelihood = -608502.96, time = 0.03s
+[BernoulliRBM] Iteration 12, pseudo-likelihood = -543191.45, time = 0.03s
+[BernoulliRBM] Iteration 13, pseudo-likelihood = -636703.97, time = 0.03s
+[BernoulliRBM] Iteration 14, pseudo-likelihood = -860875.31, time = 0.03s
+[BernoulliRBM] Iteration 15, pseudo-likelihood = -931382.46, time = 0.03s
+[BernoulliRBM] Iteration 16, pseudo-likelihood = -1053345.13, time = 0.03s
+[BernoulliRBM] Iteration 17, pseudo-likelihood = -984781.03, time = 0.03s
+[BernoulliRBM] Iteration 18, pseudo-likelihood = -975461.37, time = 0.03s
+[BernoulliRBM] Iteration 19, pseudo-likelihood = -1050123.00, time = 0.03s
+[BernoulliRBM] Iteration 20, pseudo-likelihood = -1651188.92, time = 0.03s
+[BernoulliRBM] Iteration 21, pseudo-likelihood = -1327734.58, time = 0.03s
+[BernoulliRBM] Iteration 22, pseudo-likelihood = -1260869.04, time = 0.03s
+[BernoulliRBM] Iteration 23, pseudo-likelihood = -1379345.42, time = 0.03s
+[BernoulliRBM] Iteration 24, pseudo-likelihood = -1490196.02, time = 0.03s
+[BernoulliRBM] Iteration 25, pseudo-likelihood = -1733205.59, time = 0.03s
+[BernoulliRBM] Iteration 26, pseudo-likelihood = -1953516.99, time = 0.03s
+[BernoulliRBM] Iteration 27, pseudo-likelihood = -1534028.64, time = 0.03s
+[BernoulliRBM] Iteration 28, pseudo-likelihood = -1517478.99, time = 0.03s
+[BernoulliRBM] Iteration 29, pseudo-likelihood = -1176216.83, time = 0.03s
+[BernoulliRBM] Iteration 30, pseudo-likelihood = -1329328.43, time = 0.03s
+[BernoulliRBM] Iteration 31, pseudo-likelihood = -1890494.71, time = 0.03s
+[BernoulliRBM] Iteration 32, pseudo-likelihood = -2088383.96, time = 0.03s
+[BernoulliRBM] Iteration 33, pseudo-likelihood = -1425356.71, time = 0.03s
+[BernoulliRBM] Iteration 34, pseudo-likelihood = -1985274.03, time = 0.03s
+[BernoulliRBM] Iteration 35, pseudo-likelihood = -2246163.47, time = 0.03s
+[BernoulliRBM] Iteration 36, pseudo-likelihood = -2293835.87, time = 0.03s
+[BernoulliRBM] Iteration 37, pseudo-likelihood = -1945195.56, time = 0.03s
+[BernoulliRBM] Iteration 38, pseudo-likelihood = -2159155.75, time = 0.03s
+[BernoulliRBM] Iteration 39, pseudo-likelihood = -2070799.81, time = 0.03s
+[BernoulliRBM] Iteration 40, pseudo-likelihood = -1977641.83, time = 0.03s
+accuracy : 0.47692307692307695
+precision : nan
+recall : 0.0
+F1-score : nan
+=========================================
+
+10th cross validation
+RBM
+[BernoulliRBM] Iteration 1, pseudo-likelihood = -36825.75, time = 0.02s
+[BernoulliRBM] Iteration 2, pseudo-likelihood = -110506.87, time = 0.03s
+[BernoulliRBM] Iteration 3, pseudo-likelihood = -144142.70, time = 0.03s
+[BernoulliRBM] Iteration 4, pseudo-likelihood = -256412.75, time = 0.03s
+[BernoulliRBM] Iteration 5, pseudo-likelihood = -154608.35, time = 0.03s
+[BernoulliRBM] Iteration 6, pseudo-likelihood = -393615.74, time = 0.03s
+[BernoulliRBM] Iteration 7, pseudo-likelihood = -518826.91, time = 0.03s
+[BernoulliRBM] Iteration 8, pseudo-likelihood = -566550.94, time = 0.03s
+[BernoulliRBM] Iteration 9, pseudo-likelihood = -426951.69, time = 0.03s
+[BernoulliRBM] Iteration 10, pseudo-likelihood = -489440.81, time = 0.03s
+[BernoulliRBM] Iteration 11, pseudo-likelihood = -834780.72, time = 0.03s
+[BernoulliRBM] Iteration 12, pseudo-likelihood = -560384.42, time = 0.03s
+[BernoulliRBM] Iteration 13, pseudo-likelihood = -687095.81, time = 0.03s
+[BernoulliRBM] Iteration 14, pseudo-likelihood = -631950.07, time = 0.03s
+[BernoulliRBM] Iteration 15, pseudo-likelihood = -718831.53, time = 0.03s
+[BernoulliRBM] Iteration 16, pseudo-likelihood = -815007.54, time = 0.03s
+[BernoulliRBM] Iteration 17, pseudo-likelihood = -1045412.40, time = 0.03s
+[BernoulliRBM] Iteration 18, pseudo-likelihood = -1254819.00, time = 0.03s
+[BernoulliRBM] Iteration 19, pseudo-likelihood = -1109657.44, time = 0.03s
+[BernoulliRBM] Iteration 20, pseudo-likelihood = -1023739.58, time = 0.03s
+[BernoulliRBM] Iteration 21, pseudo-likelihood = -1534683.19, time = 0.03s
+[BernoulliRBM] Iteration 22, pseudo-likelihood = -499764.41, time = 0.03s
+[BernoulliRBM] Iteration 23, pseudo-likelihood = -1565349.20, time = 0.03s
+[BernoulliRBM] Iteration 24, pseudo-likelihood = -1243133.49, time = 0.03s
+[BernoulliRBM] Iteration 25, pseudo-likelihood = -1376965.18, time = 0.03s
+[BernoulliRBM] Iteration 26, pseudo-likelihood = -1412302.31, time = 0.03s
+[BernoulliRBM] Iteration 27, pseudo-likelihood = -1415041.33, time = 0.03s
+[BernoulliRBM] Iteration 28, pseudo-likelihood = -1179647.80, time = 0.03s
+[BernoulliRBM] Iteration 29, pseudo-likelihood = -1484480.04, time = 0.03s
+[BernoulliRBM] Iteration 30, pseudo-likelihood = -1786079.10, time = 0.03s
+[BernoulliRBM] Iteration 31, pseudo-likelihood = -2093185.45, time = 0.03s
+[BernoulliRBM] Iteration 32, pseudo-likelihood = -2099107.49, time = 0.03s
+[BernoulliRBM] Iteration 33, pseudo-likelihood = -1763403.07, time = 0.03s
+[BernoulliRBM] Iteration 34, pseudo-likelihood = -1742500.48, time = 0.03s
+[BernoulliRBM] Iteration 35, pseudo-likelihood = -1743796.06, time = 0.03s
+[BernoulliRBM] Iteration 36, pseudo-likelihood = -1464049.53, time = 0.03s
+[BernoulliRBM] Iteration 37, pseudo-likelihood = -1882967.61, time = 0.03s
+[BernoulliRBM] Iteration 38, pseudo-likelihood = -1462988.88, time = 0.03s
+[BernoulliRBM] Iteration 39, pseudo-likelihood = -1727187.93, time = 0.03s
+[BernoulliRBM] Iteration 40, pseudo-likelihood = -2567177.73, time = 0.03s
+accuracy : 0.5384615384615384
+precision : nan
+recall : 0.0
+F1-score : nan
+=========================================
+
+[0.5, 0.5454545454545454, 0.5, 0.6615384615384615, 0.47692307692307695, 0.5692307692307692, 0.6153846153846154, 0.5846153846153846, 0.47692307692307695, 0.5384615384615384]
+0.5468531468531468

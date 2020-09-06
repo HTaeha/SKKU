@@ -1,0 +1,21 @@
+INT main(abc, b, e){
+    INT a,b,c,d;
+    INT b;
+    CHAR c;
+    a = (1 + 2) * 3;
+    b = 12 * 3 < 4 + a;
+    WHILE( 1 ){
+        INT c;
+        CHAR afe;
+    	a = 1;
+        IF (1) THEN{
+            CHAR d;
+            INT aaa;
+	        aaa=2;
+            RETURN 24;
+        }
+        RETURN 12;
+    }
+    aaa=4;
+    aaa=3;
+}

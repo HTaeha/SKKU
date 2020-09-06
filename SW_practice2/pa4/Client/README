@@ -1,0 +1,8 @@
+Compiling: 
+gcc Client.c -o client
+
+Input format:
+IP:port/Pathname
+IP is dotted decimal notation or localhost(127.0.0.1).
+Port and ':' can skip
+Default port = 10001

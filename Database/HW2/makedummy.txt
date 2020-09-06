@@ -1,0 +1,166 @@
+Insert into USERINFO values('0001', 'KIM', 24, 1, '01012345678', 'kim@gmail.com', 20000, '2018-01-01', '2008-05-20');
+Insert into USERINFO values('0002', 'HONG', 62, 1, '01033333333', 'hong@gmail.com', 15000, '2018-04-16', '2017-11-20');
+Insert into USERINFO values('0003', 'SHIM', 37, 1, '01099999999', 'shim@gmail.com', 30000, '2018-02-24', '2012-03-14');
+Insert into USERINFO values('0004', 'SOI', 45, 0, '01022222222', 'soi@naver.com', 35000, '2017-06-30', '2017-06-28');
+Insert into USERINFO values('0005', 'JANG', 15, 0, '01056781234', 'jang@naver.com', 17000, '2018-02-01', '2010-09-11');
+Insert into USERINFO values('0006', 'CHOI', 52, 0, '01011111111', 'choi@hanmail.net', 24000, '2018-01-01', '2014-03-02');
+Insert into USERINFO values('0007', 'LEE', 77, 1, '01028282828', 'lee@hanmail.net', 55000, '2018-04-17', '2015-05-20');
+Insert into USERINFO values('0008', 'JEON', 33, 1, '01088888888', 'jeon@naver.com', 77000, '2018-03-01', '2018-01-20');
+Insert into USERINFO values('0009', 'SHIN', 49, 0, '01098765432', 'shin@gmail.com', 95000, '2018-04-10', '2008-08-20');
+Insert into USERINFO values('000A', 'CHO', 28, 0, '01013572468', 'cho@gmail.com', 47000, '2018-02-05', '2010-09-20');
+
+Insert into TRAIN values('0001', 'mugunghwa1', '0001');
+Insert into TRAIN values('0002', 'mugunghwa2', '0001');
+Insert into TRAIN values('0003', 'saemaul', '0002');
+
+Insert into TRAINTYPE values('0001', 'mugunghwa');
+Insert into TRAINTYPE values('0002', 'saemaul');
+
+Insert into DESTINATION values('0001', 'seoul');
+Insert into DESTINATION values('0002', 'cheonan');
+Insert into DESTINATION values('0003', 'daegu');
+Insert into DESTINATION values('0004', 'busan');
+Insert into DESTINATION values('0005', 'gwangju');
+
+INSERT INTO LINE VALUES('0001', '0001','0002', '2018-04-17','10:30','0003');
+INSERT INTO LINE VALUES('0002', '0003','0002', '2018-04-17','11:40','0001');
+INSERT INTO LINE VALUES('0003', '0005','0001', '2018-04-17','13:10','0002');
+INSERT INTO LINE VALUES('0004', '0004','0001', '2018-04-17','15:50','0003');
+INSERT INTO LINE VALUES('0005', '0005','0004', '2018-04-17','18:30','0001');
+
+Insert into SEAT values('0111', '0001', 1, 1, 0, '0001');
+Insert into SEAT values('0112', '0001', 1, 2, 0, '0001');
+Insert into SEAT values('0113', '0001', 1, 3, 0, '0001');
+Insert into SEAT values('0114', '0001', 1, 4, 0, '0001');
+Insert into SEAT values('0115', '0001', 1, 5, 0, '0001');
+Insert into SEAT values('0116', '0001', 1, 6, 0, '0001');
+Insert into SEAT values('0117', '0001', 1, 7, 0, '0001');
+Insert into SEAT values('0118', '0001', 1, 8, 0, '0001');
+
+Insert into SEAT values('0121', '0001', 2, 1, 0, '0002');
+Insert into SEAT values('0122', '0001', 2, 2, 0, '0002');
+Insert into SEAT values('0123', '0001', 2, 3, 0, '0002');
+Insert into SEAT values('0124', '0001', 2, 4, 0, '0002');
+Insert into SEAT values('0125', '0001', 2, 5, 0, '0002');
+Insert into SEAT values('0126', '0001', 2, 6, 0, '0002');
+Insert into SEAT values('0127', '0001', 2, 7, 0, '0002');
+Insert into SEAT values('0128', '0001', 2, 8, 0, '0002');
+
+Insert into SEAT values('0131', '0001', 3, 1, 0, '0002');
+Insert into SEAT values('0132', '0001', 3, 2, 0, '0002');
+Insert into SEAT values('0133', '0001', 3, 3, 0, '0002');
+Insert into SEAT values('0134', '0001', 3, 4, 0, '0002');
+Insert into SEAT values('0135', '0001', 3, 5, 0, '0002');
+Insert into SEAT values('0136', '0001', 3, 6, 0, '0002');
+Insert into SEAT values('0137', '0001', 3, 7, 0, '0002');
+Insert into SEAT values('0138', '0001', 3, 8, 0, '0002');
+
+Insert into SEAT values('0211', '0002', 1, 1, 0, '0001');
+Insert into SEAT values('0212', '0002', 1, 2, 0, '0001');
+Insert into SEAT values('0213', '0002', 1, 3, 0, '0001');
+Insert into SEAT values('0214', '0002', 1, 4, 0, '0001');
+Insert into SEAT values('0215', '0002', 1, 5, 0, '0001');
+Insert into SEAT values('0216', '0002', 1, 6, 0, '0001');
+Insert into SEAT values('0217', '0002', 1, 7, 0, '0001');
+Insert into SEAT values('0218', '0002', 1, 8, 0, '0001');
+
+Insert into SEAT values('0221', '0002', 2, 1, 0, '0002');
+Insert into SEAT values('0222', '0002', 2, 2, 0, '0002');
+Insert into SEAT values('0223', '0002', 2, 3, 0, '0002');
+Insert into SEAT values('0224', '0002', 2, 4, 0, '0002');
+Insert into SEAT values('0225', '0002', 2, 5, 0, '0002');
+Insert into SEAT values('0226', '0002', 2, 6, 0, '0002');
+Insert into SEAT values('0227', '0002', 2, 7, 0, '0002');
+Insert into SEAT values('0228', '0002', 2, 8, 0, '0002');
+
+Insert into SEAT values('0231', '0002', 3, 1, 0, '0002');
+Insert into SEAT values('0232', '0002', 3, 2, 0, '0002');
+Insert into SEAT values('0233', '0002', 3, 3, 0, '0002');
+Insert into SEAT values('0234', '0002', 3, 4, 0, '0002');
+Insert into SEAT values('0235', '0002', 3, 5, 0, '0002');
+Insert into SEAT values('0236', '0002', 3, 6, 0, '0002');
+Insert into SEAT values('0237', '0002', 3, 7, 0, '0002');
+Insert into SEAT values('0238', '0002', 3, 8, 0, '0002');
+
+Insert into SEAT values('0311', '0003', 1, 1, 0, '0001');
+Insert into SEAT values('0312', '0003', 1, 2, 0, '0001');
+Insert into SEAT values('0313', '0003', 1, 3, 0, '0001');
+Insert into SEAT values('0314', '0003', 1, 4, 0, '0001');
+Insert into SEAT values('0315', '0003', 1, 5, 0, '0001');
+Insert into SEAT values('0316', '0003', 1, 6, 0, '0001');
+Insert into SEAT values('0317', '0003', 1, 7, 0, '0001');
+Insert into SEAT values('0318', '0003', 1, 8, 0, '0001');
+
+Insert into SEAT values('0321', '0003', 2, 1, 0, '0002');
+Insert into SEAT values('0322', '0003', 2, 2, 0, '0002');
+Insert into SEAT values('0323', '0003', 2, 3, 0, '0002');
+Insert into SEAT values('0324', '0003', 2, 4, 0, '0002');
+Insert into SEAT values('0325', '0003', 2, 5, 0, '0002');
+Insert into SEAT values('0326', '0003', 2, 6, 0, '0002');
+Insert into SEAT values('0327', '0003', 2, 7, 0, '0002');
+Insert into SEAT values('0328', '0003', 2, 8, 0, '0002');
+
+Insert into SEAT values('0331', '0003', 3, 1, 0, '0002');
+Insert into SEAT values('0332', '0003', 3, 2, 0, '0002');
+Insert into SEAT values('0333', '0003', 3, 3, 0, '0002');
+Insert into SEAT values('0334', '0003', 3, 4, 0, '0002');
+Insert into SEAT values('0335', '0003', 3, 5, 0, '0002');
+Insert into SEAT values('0336', '0003', 3, 6, 0, '0002');
+Insert into SEAT values('0337', '0003', 3, 7, 0, '0002');
+Insert into SEAT values('0338', '0003', 3, 8, 0, '0002');
+
+Insert into SEATTYPE values('0001', 'premium');
+Insert into SEATTYPE values('0002', 'normal');
+
+Insert into DISTANCE values('0001', '0001', '0002', 30);
+Insert into DISTANCE values('0002', '0001', '0003', 80);
+Insert into DISTANCE values('0003', '0001', '0004', 110);
+Insert into DISTANCE values('0004', '0001', '0005', 70);
+Insert into DISTANCE values('0005', '0002', '0003', 50);
+Insert into DISTANCE values('0006', '0002', '0004', 80);
+Insert into DISTANCE values('0007', '0002', '0005', 40);
+Insert into DISTANCE values('0008', '0003', '0004', 30);
+Insert into DISTANCE values('0009', '0003', '0005', 90);
+Insert into DISTANCE values('000A', '0004', '0005', 120);
+Insert into DISTANCE values('000B', '0002', '0001', 30);
+Insert into DISTANCE values('000C', '0003', '0001', 80);
+Insert into DISTANCE values('000D', '0004', '0001', 110);
+Insert into DISTANCE values('000E', '0005', '0001', 70);
+Insert into DISTANCE values('000F', '0003', '0002', 50);
+Insert into DISTANCE values('0010', '0004', '0002', 80);
+Insert into DISTANCE values('0011', '0005', '0002', 40);
+Insert into DISTANCE values('0012', '0004', '0003', 30);
+Insert into DISTANCE values('0013', '0005', '0003', 90);
+Insert into DISTANCE values('0014', '0005', '0004', 120);
+
+INSERT INTO DESTINATIONPRICE VALUES('0001', 10, 500);
+INSERT INTO DESTINATIONPRICE VALUES('0002', 20, 1100);
+INSERT INTO DESTINATIONPRICE VALUES('0003', 30, 1700);
+INSERT INTO DESTINATIONPRICE VALUES('0004', 40, 2200);
+INSERT INTO DESTINATIONPRICE VALUES('0005', 50, 2500);
+INSERT INTO DESTINATIONPRICE VALUES('0006', 60, 3400);
+INSERT INTO DESTINATIONPRICE VALUES('0007', 70, 3800);
+INSERT INTO DESTINATIONPRICE VALUES('0008', 80, 4200);
+INSERT INTO DESTINATIONPRICE VALUES('0009', 90, 4500);
+INSERT INTO DESTINATIONPRICE VALUES('0010', 100, 5000);
+INSERT INTO DESTINATIONPRICE VALUES('0011', 110, 5600);
+INSERT INTO DESTINATIONPRICE VALUES('0012', 120, 6500);
+INSERT INTO DESTINATIONPRICE VALUES('0013', 130, 7800);
+INSERT INTO DESTINATIONPRICE VALUES('0014', 140, 10200);
+INSERT INTO DESTINATIONPRICE VALUES('0015', 150, 12400);
+
+INSERT INTO TRAINPRICE VALUES('0001','0001',5000);
+INSERT INTO TRAINPRICE VALUES('0002','0002',7500);
+
+INSERT INTO SEATPRICE VALUES('0001','0001',10000);
+INSERT INTO SEATPRICE VALUES('0002','0002',5000);
+
+insert into RESERVATION values ('0001','0005','0001','0214');
+insert into RESERVATION values ('0002','0003','0001','0311');
+insert into RESERVATION values ('0002','0003','0001','0312');
+insert into RESERVATION values ('0003','000A','0003','0311');
+insert into RESERVATION values ('0002','0003','0001','0311');
+insert into RESERVATION values ('0004','0001','0005','0121');
+insert into RESERVATION values ('0004','0001','0005','0122');
+insert into RESERVATION values ('0004','0001','0005','0123');
+insert into RESERVATION values ('0004','0001','0005','0124');
